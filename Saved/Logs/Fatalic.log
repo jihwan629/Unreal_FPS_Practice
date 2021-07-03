@@ -980,3 +980,100 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.03-12.41.07:241][499]LogSlate: Window '프로젝트 세팅' being destroyed
 [2021.07.03-12.41.41:668][208]LogSlate: Window '에디터 개인설정' being destroyed
 [2021.07.03-12.41.41:671][208]LogSlate: Window '에디터 개인설정' being destroyed
+[2021.07.03-12.44.30:290][462]LogContentBrowser: Attempting asset rename: FPP_RifleJumpEnd -> FPP_RifleJumpEnd
+[2021.07.03-12.44.38:926][140]BlueprintLog: New page: FPP_Hero_Animation 컴파일
+[2021.07.03-12.44.39:060][140]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2021.07.03-12.45.14:449][852]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.07.03-12.45.14:456][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.03-12.45.14:456][852]PIE: New page: PIE 세션: StartLevel (2021. 7. 4. 오전 6:45:14)
+[2021.07.03-12.45.14:456][852]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.03-12.45.14:485][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029039s)
+[2021.07.03-12.45.14:486][852]LogAIModule: Creating AISystem for world StartLevel
+[2021.07.03-12.45.14:487][852]LogPlayLevel: PIE: World Init took: (0.001620s)
+[2021.07.03-12.45.14:487][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.030813s)
+[2021.07.03-12.45.14:553][852]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.07.03-12.45.14:556][852]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.07.03-12.45.14:556][852]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.03-12.45.14:556][852]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.03-12.45.14:556][852]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.03-12.45.14:556][852]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.03-12.45.14:556][852]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.03-12.45.14:556][852]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.03-12.45.14:556][852]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.03-12.45.14:556][852]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.03-12.45.14:557][852]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.03-12.45.14:557][852]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.03-12.45.14:561][852]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.03-12.45.14:561][852]LogAudioMixer: Display: 1: FrontRight
+[2021.07.03-12.45.14:591][852]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.07.03-12.45.14:591][852]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.03-12.45.14:591][852]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.03-12.45.14:591][852]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.03-12.45.14:592][852]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.03-12.45.14:592][852]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.03-12.45.14:592][852]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.03-12.45.14:606][852]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.03-12.45.14:606][852]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.03-12.45.14:606][852]LogInit: FAudioDevice initialized.
+[2021.07.03-12.45.14:606][852]LogAudio: Display: Audio Device (ID: 3) registered with world 'StartLevel'.
+[2021.07.03-12.45.14:615][852]LogLoad: Game class is 'GameModeBase'
+[2021.07.03-12.45.14:618][852]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.07.03-21.45.14
+[2021.07.03-12.45.14:619][852]LogWorld: Bringing up level for play took: 0.002925
+[2021.07.03-12.45.14:619][852]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.07.03-12.45.14:622][852]PIE: 서버가 로그인했습니다.
+[2021.07.03-12.45.14:623][852]PIE: 에디터에서 플레이 총 시작 시간 0.169초입니다.
+[2021.07.03-12.45.16:028][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-12.45.16:028][  2]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.03-12.45.16:028][  2]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-12.45.16:029][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-12.45.16:042][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.03-12.45.16:084][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-12.45.16:122][  2]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.03-12.45.16:123][  2]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-12.45.16:123][  2]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.03-12.45.16:144][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.03-12.45.16:148][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.07.03-12.45.16:190][  3]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.07.03-12.45.22:004][479]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-12.45.22:004][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-12.45.23:640][620]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-12.45.23:640][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-12.45.23:659][620]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-12.45.23:659][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-12.45.23:718][620]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-12.45.23:718][620]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-12.45.25:377][794]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.07.03-12.45.25:377][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.03-12.48.34:214][916]LogSlate: Window 'FPP_Hero' being destroyed
+[2021.07.03-12.48.53:734][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.07.03-12.48.54:955][480]LogSlate: Window '콘텐츠 저장' being destroyed
+[2021.07.03-12.48.54:989][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/FPP_Hero/FPP_Hero" FILE="../../../../../Unreal Project/Fatalic/Content/Character/FPP_Hero/FPP_Hero.uasset" SILENT=true
+[2021.07.03-12.48.55:000][480]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic/Saved/FPP_Hero7B52072C4A994935FEDA6A99978E6BAF.tmp' to '../../../../../Unreal Project/Fatalic/Content/Character/FPP_Hero/FPP_Hero.uasset'
+[2021.07.03-12.48.55:008][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/FPP_Hero/FPP_Hero_Animation" FILE="../../../../../Unreal Project/Fatalic/Content/Character/FPP_Hero/FPP_Hero_Animation.uasset" SILENT=true
+[2021.07.03-12.48.55:018][480]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic/Saved/FPP_Hero_AnimationE65C7AD545D0494A271F1E99E287CFB3.tmp' to '../../../../../Unreal Project/Fatalic/Content/Character/FPP_Hero/FPP_Hero_Animation.uasset'
+[2021.07.03-12.48.55:063][481]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.07.03-12.48.55:063][481]LogContentValidation: Display: Blueprint /Game/Character/FPP_Hero/FPP_Hero.FPP_Hero 유효성 검사
+[2021.07.03-12.48.55:063][481]LogContentValidation: Display: AnimBlueprint /Game/Character/FPP_Hero/FPP_Hero_Animation.FPP_Hero_Animation 유효성 검사
+[2021.07.03-12.49.31:415][358]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.07.03-12.49.51:802][622]LogSlate: Window '프로젝트 세팅' being destroyed
+[2021.07.03-12.49.51:806][622]LogSlate: Window '프로젝트 세팅' being destroyed
+[2021.07.03-12.52.30:729][130]BlueprintLog: New page: FPP_Hero 컴파일
+[2021.07.03-12.52.30:902][130]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.07.03-12.54.28:576][661]BlueprintLog: New page: FPP_Hero 컴파일
+[2021.07.03-12.54.28:743][661]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.07.03-12.54.49:468][750]BlueprintLog: New page: FPP_Hero 컴파일
+[2021.07.03-12.54.49:614][750]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2021.07.03-12.58.06:088][ 65]BlueprintLog: New page: FPP_Hero 컴파일
+[2021.07.03-12.58.06:240][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2021.07.03-12.58.06:722][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/FPP_Hero/FPP_Hero" FILE="../../../../../Unreal Project/Fatalic/Content/Character/FPP_Hero/FPP_Hero.uasset" SILENT=true
+[2021.07.03-12.58.06:737][110]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic/Saved/FPP_HeroD50AAF2D4ACDFA599AC3C28B071BC96A.tmp' to '../../../../../Unreal Project/Fatalic/Content/Character/FPP_Hero/FPP_Hero.uasset'
+[2021.07.03-12.58.06:755][110]AssetCheck: New page: 애셋 저장: FPP_Hero
+[2021.07.03-12.58.06:755][110]LogContentValidation: Display: Blueprint /Game/Character/FPP_Hero/FPP_Hero.FPP_Hero 유효성 검사
+[2021.07.03-12.59.54:847][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartLevel" FILE="../../../../../Unreal Project/Fatalic/Content/Maps/StartLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.03-12.59.54:881][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.07.03-12.59.54:965][811]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic/Saved/StartLevelD58755F94CDD1C79583FFD8D2C7F4666.tmp' to '../../../../../Unreal Project/Fatalic/Content/Maps/StartLevel.umap'
+[2021.07.03-12.59.54:972][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartLevel_BuiltData" FILE="../../../../../Unreal Project/Fatalic/Content/Maps/StartLevel_BuiltData.uasset" SILENT=true
+[2021.07.03-12.59.55:066][811]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic/Saved/StartLevel_BuiltData1C9515D94BE07679C41068BF77BD9145.tmp' to '../../../../../Unreal Project/Fatalic/Content/Maps/StartLevel_BuiltData.uasset'
+[2021.07.03-12.59.55:081][811]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.07.03-12.59.55:081][811]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/StartLevel_BuiltData.StartLevel_BuiltData 유효성 검사
+[2021.07.03-12.59.55:081][811]LogContentValidation: Display: World /Game/Maps/StartLevel.StartLevel 유효성 검사
