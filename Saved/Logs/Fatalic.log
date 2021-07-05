@@ -2350,3 +2350,603 @@ Script Stack (0 frames):
 [2021.07.05-14.15.25:034][627]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier7353B6354FF64CAA771093ADD4462418.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/AlienSoldier.uasset'
 [2021.07.05-14.15.25:051][627]AssetCheck: New page: 에셋 저장:  AlienSoldier
 [2021.07.05-14.15.25:051][627]LogContentValidation: Display: Blueprint /Game/Character/AlienSoldier/AlienSoldier.AlienSoldier 유효성 검사 중
+[2021.07.05-14.18.36:650][955]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.18.36:651][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.18.37:144][  5]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.18.37:144][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.18.39:548][285]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.07.05-14.18.39:548][285]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.18.39:548][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.19.07:441][236]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Character/FPP_Hero/FPP_Move_BS.FPP_Move_BS
+[2021.07.05-14.19.07:447][236]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.05-14.19.07:703][236]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.07.05-14.19.35:921][788]LogSlate: Window '스켈레톤 선택' being destroyed
+[2021.07.05-14.19.35:928][788]LogContentBrowser: Deferred new asset file creation: NewBlendSpace1D
+[2021.07.05-14.19.35:944][788]LogContentBrowser: Creating deferred item: NewBlendSpace1D
+[2021.07.05-14.19.36:039][792]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> NewBlendSpace1D
+[2021.07.05-14.19.36:040][792]LogContentBrowser: End creating deferred item NewBlendSpace1D
+[2021.07.05-14.19.42:232][241]LogContentBrowser: Attempting asset rename: TPP_Hero -> TPP_Hero
+[2021.07.05-14.19.51:546][ 44]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> TPP_Move_BS
+[2021.07.05-14.19.51:661][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/TPP_Hero/TPP_Move_BS" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Move_BS.uasset" SILENT=true
+[2021.07.05-14.19.51:666][ 44]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/TPP_Move_BSFCC900EB42AB95B28AEDBB92B36B99AC.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Move_BS.uasset'
+[2021.07.05-14.19.51:986][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2021.07.05-14.19.52:054][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.07.05-14.19.52:087][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.07.05-14.19.52:095][ 44]AssetCheck: New page: 에셋 저장:  TPP_Move_BS
+[2021.07.05-14.19.52:095][ 44]LogContentValidation: Display: BlendSpace1D /Game/Character/TPP_Hero/TPP_Move_BS.TPP_Move_BS 유효성 검사 중
+[2021.07.05-14.19.53:293][114]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Character/TPP_Hero/TPP_Move_BS.TPP_Move_BS
+[2021.07.05-14.19.53:297][114]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.05-14.19.53:550][114]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.07.05-14.20.24:820][753]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/TTP_Animations/RoadieRun_Fwd.RoadieRun_Fwd
+[2021.07.05-14.22.26:497][114]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.22.26:497][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.22.26:537][114]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.22.26:537][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.22.29:105][399]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.22.29:105][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.22.29:147][399]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.22.29:147][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.22.59:026][749]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.22.59:048][749]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.07.05-14.23.07:261][749]LogSlate: Window '애니메이션 블루프린트 생성' being destroyed
+[2021.07.05-14.23.07:267][749]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2021.07.05-14.23.07:284][749]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2021.07.05-14.23.13:521][468]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> TPP_Animation
+[2021.07.05-14.23.13:525][468]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2021.07.05-14.23.26:559][930]LogContentBrowser: Attempting asset rename: TPP_Animation -> TPP_Hero_Animation
+[2021.07.05-14.23.26:614][930]LogMetaData: Removing '/Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Character/TPP_Hero/TPP_Animation.PackageMetaData'
+[2021.07.05-14.23.26:614][930]LogMetaData: Removing '/Game/Character/TPP_Hero/TPP_Hero_Animation.SKEL_TPP_Hero_Animation_C:AnimGraph' ref from Metadata '/Game/Character/TPP_Hero/TPP_Animation.PackageMetaData'
+[2021.07.05-14.23.26:614][930]LogMetaData: Removing '/Game/Character/TPP_Hero/TPP_Hero_Animation.SKEL_TPP_Hero_Animation_C' ref from Metadata '/Game/Character/TPP_Hero/TPP_Animation.PackageMetaData'
+[2021.07.05-14.23.26:614][930]LogMetaData: Removing '/Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:AnimGraph' ref from Metadata '/Game/Character/TPP_Hero/TPP_Animation.PackageMetaData'
+[2021.07.05-14.23.26:614][930]LogMetaData: Removing '/Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C' ref from Metadata '/Game/Character/TPP_Hero/TPP_Animation.PackageMetaData'
+[2021.07.05-14.23.26:614][930]LogMetaData: Removing '/Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Character/TPP_Hero/TPP_Animation.PackageMetaData'
+[2021.07.05-14.23.26:614][930]LogMetaData: Removing '/Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Character/TPP_Hero/TPP_Animation.PackageMetaData'
+[2021.07.05-14.23.26:685][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/TPP_Hero/TPP_Hero_Animation" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Hero_Animation.uasset" SILENT=true
+[2021.07.05-14.23.26:693][930]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/TPP_Hero_AnimationA7564E084EA1DFC5A95443BC1714F72B.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Hero_Animation.uasset'
+[2021.07.05-14.23.26:994][930]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.07.05-14.23.27:046][930]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.07.05-14.23.27:078][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.07.05-14.23.27:087][930]AssetCheck: New page: 에셋 저장:  TPP_Hero_Animation
+[2021.07.05-14.23.27:087][930]LogContentValidation: Display: AnimBlueprint /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation 유효성 검사 중
+[2021.07.05-14.23.31:361][355]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation
+[2021.07.05-14.23.31:368][355]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.05-14.23.43:402][677]BlueprintLog: New page: TPP_Hero_Animation 컴파일
+[2021.07.05-14.23.43:460][677]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.07.05-14.23.43:530][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/TPP_Hero/TPP_Hero_Animation" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Hero_Animation.uasset" SILENT=true
+[2021.07.05-14.23.43:539][677]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/TPP_Hero_Animation5209A93447F7955D793171AE5FF094C3.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Hero_Animation.uasset'
+[2021.07.05-14.23.43:553][677]AssetCheck: New page: 에셋 저장:  TPP_Hero_Animation
+[2021.07.05-14.23.43:553][677]LogContentValidation: Display: AnimBlueprint /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation 유효성 검사 중
+[2021.07.05-14.23.48:361][184]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Character/TPP_Hero/TPP_Move_BS.TPP_Move_BS
+[2021.07.05-14.23.48:365][184]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.05-14.23.48:623][184]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.07.05-14.23.51:964][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/TPP_Hero/TPP_Move_BS" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Move_BS.uasset" SILENT=true
+[2021.07.05-14.23.51:970][568]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/TPP_Move_BS0E88049B46A49D43AD61B29F5FC9B686.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Move_BS.uasset'
+[2021.07.05-14.23.51:984][568]AssetCheck: New page: 에셋 저장:  TPP_Move_BS
+[2021.07.05-14.23.51:984][568]LogContentValidation: Display: BlendSpace1D /Game/Character/TPP_Hero/TPP_Move_BS.TPP_Move_BS 유효성 검사 중
+[2021.07.05-14.24.01:271][652]BlueprintLog: New page: TPP_Hero_Animation 컴파일
+[2021.07.05-14.24.01:335][652]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.07.05-14.24.01:416][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/TPP_Hero/TPP_Hero_Animation" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Hero_Animation.uasset" SILENT=true
+[2021.07.05-14.24.01:425][652]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/TPP_Hero_Animation23CB0DC24A84FB2E31AA278082E1FBD8.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Hero_Animation.uasset'
+[2021.07.05-14.24.01:439][652]AssetCheck: New page: 에셋 저장:  TPP_Hero_Animation
+[2021.07.05-14.24.01:439][652]LogContentValidation: Display: AnimBlueprint /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation 유효성 검사 중
+[2021.07.05-14.24.27:467][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/TPP_Hero/TPP_Move_BS" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Move_BS.uasset" SILENT=true
+[2021.07.05-14.24.27:472][270]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/TPP_Move_BSC6FAF0874D5981C0AEC869BCAFCD0979.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Move_BS.uasset'
+[2021.07.05-14.24.27:485][270]AssetCheck: New page: 에셋 저장:  TPP_Move_BS
+[2021.07.05-14.24.27:485][270]LogContentValidation: Display: BlendSpace1D /Game/Character/TPP_Hero/TPP_Move_BS.TPP_Move_BS 유효성 검사 중
+[2021.07.05-14.24.34:681][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/TPP_Hero/TPP_Move_BS" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Move_BS.uasset" SILENT=true
+[2021.07.05-14.24.34:686][ 82]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/TPP_Move_BS99D41773458E4A6770AEF4A2B1FC8103.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Move_BS.uasset'
+[2021.07.05-14.24.34:700][ 82]AssetCheck: New page: 에셋 저장:  TPP_Move_BS
+[2021.07.05-14.24.34:700][ 82]LogContentValidation: Display: BlendSpace1D /Game/Character/TPP_Hero/TPP_Move_BS.TPP_Move_BS 유효성 검사 중
+[2021.07.05-14.25.19:653][912]BlueprintLog: New page: TPP_Hero_Animation 컴파일
+[2021.07.05-14.25.19:710][912]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.07.05-14.25.19:780][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/TPP_Hero/TPP_Hero_Animation" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Hero_Animation.uasset" SILENT=true
+[2021.07.05-14.25.19:788][912]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/TPP_Hero_AnimationA78118B840F0503CDD2DBC9E22833FA7.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Hero_Animation.uasset'
+[2021.07.05-14.25.19:802][912]AssetCheck: New page: 에셋 저장:  TPP_Hero_Animation
+[2021.07.05-14.25.19:802][912]LogContentValidation: Display: AnimBlueprint /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation 유효성 검사 중
+[2021.07.05-14.25.23:346][314]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.25.23:346][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.25.23:389][314]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.25.23:389][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.25.34:564][215]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Character/FPP_Hero/FPP_Hero_Animation.FPP_Hero_Animation
+[2021.07.05-14.25.34:570][215]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.05-14.25.34:571][215]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FPP_Hero_Animation_C /Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPP_Hero_Animation_C_0
+	Function /Game/Character/FPP_Hero/FPP_Hero_Animation.FPP_Hero_Animation_C:ExecuteUbergraph_FPP_Hero_Animation:0040
+[2021.07.05-14.25.34:996][215]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FPP_Hero_Animation_C /Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPP_Hero_Animation_C_0
+	Function /Game/Character/FPP_Hero/FPP_Hero_Animation.FPP_Hero_Animation_C:ExecuteUbergraph_FPP_Hero_Animation:0040
+[2021.07.05-14.25.35:076][216]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FPP_Hero_Animation_C /Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPP_Hero_Animation_C_0
+	Function /Game/Character/FPP_Hero/FPP_Hero_Animation.FPP_Hero_Animation_C:ExecuteUbergraph_FPP_Hero_Animation:0040
+[2021.07.05-14.25.35:086][217]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FPP_Hero_Animation_C /Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPP_Hero_Animation_C_0
+	Function /Game/Character/FPP_Hero/FPP_Hero_Animation.FPP_Hero_Animation_C:ExecuteUbergraph_FPP_Hero_Animation:0040
+[2021.07.05-14.25.35:095][218]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FPP_Hero_Animation_C /Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPP_Hero_Animation_C_0
+	Function /Game/Character/FPP_Hero/FPP_Hero_Animation.FPP_Hero_Animation_C:ExecuteUbergraph_FPP_Hero_Animation:0040
+[2021.07.05-14.25.35:103][219]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FPP_Hero_Animation_C /Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPP_Hero_Animation_C_0
+	Function /Game/Character/FPP_Hero/FPP_Hero_Animation.FPP_Hero_Animation_C:ExecuteUbergraph_FPP_Hero_Animation:0040
+[2021.07.05-14.25.35:112][220]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FPP_Hero_Animation_C /Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPP_Hero_Animation_C_0
+	Function /Game/Character/FPP_Hero/FPP_Hero_Animation.FPP_Hero_Animation_C:ExecuteUbergraph_FPP_Hero_Animation:0040
+[2021.07.05-14.25.35:120][221]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FPP_Hero_Animation_C /Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPP_Hero_Animation_C_0
+	Function /Game/Character/FPP_Hero/FPP_Hero_Animation.FPP_Hero_Animation_C:ExecuteUbergraph_FPP_Hero_Animation:0040
+[2021.07.05-14.25.35:128][222]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FPP_Hero_Animation_C /Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPP_Hero_Animation_C_0
+	Function /Game/Character/FPP_Hero/FPP_Hero_Animation.FPP_Hero_Animation_C:ExecuteUbergraph_FPP_Hero_Animation:0040
+[2021.07.05-14.25.35:137][223]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FPP_Hero_Animation_C /Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPP_Hero_Animation_C_0
+	Function /Game/Character/FPP_Hero/FPP_Hero_Animation.FPP_Hero_Animation_C:ExecuteUbergraph_FPP_Hero_Animation:0040
+[2021.07.05-14.25.35:145][224]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FPP_Hero_Animation_C /Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPP_Hero_Animation_C_0
+	Function /Game/Character/FPP_Hero/FPP_Hero_Animation.FPP_Hero_Animation_C:ExecuteUbergraph_FPP_Hero_Animation:0040
+[2021.07.05-14.25.35:153][225]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FPP_Hero_Animation_C /Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPP_Hero_Animation_C_0
+	Function /Game/Character/FPP_Hero/FPP_Hero_Animation.FPP_Hero_Animation_C:ExecuteUbergraph_FPP_Hero_Animation:0040
+[2021.07.05-14.25.35:162][226]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FPP_Hero_Animation_C /Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.FPP_Hero_Animation_C_0
+	Function /Game/Character/FPP_Hero/FPP_Hero_Animation.FPP_Hero_Animation_C:ExecuteUbergraph_FPP_Hero_Animation:0040
+[2021.07.05-14.25.54:031][427]LogSlate: Took 0.001883 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.07.05-14.25.57:679][846]BlueprintLog: New page: TPP_Hero_Animation 컴파일
+[2021.07.05-14.25.57:747][846]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2021.07.05-14.25.57:814][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/TPP_Hero/TPP_Hero_Animation" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Hero_Animation.uasset" SILENT=true
+[2021.07.05-14.25.57:823][846]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/TPP_Hero_Animation25568A5B4330556E4D8449BB4BD1711D.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Hero_Animation.uasset'
+[2021.07.05-14.25.57:837][846]AssetCheck: New page: 에셋 저장:  TPP_Hero_Animation
+[2021.07.05-14.25.57:837][846]LogContentValidation: Display: AnimBlueprint /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation 유효성 검사 중
+[2021.07.05-14.26.07:270][926]BlueprintLog: New page: TPP_Hero_Animation 컴파일
+[2021.07.05-14.26.07:332][926]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2021.07.05-14.26.07:398][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/TPP_Hero/TPP_Hero_Animation" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Hero_Animation.uasset" SILENT=true
+[2021.07.05-14.26.07:409][926]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/TPP_Hero_Animation566D596E4FB7F203632FBDB25CE5387A.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Hero_Animation.uasset'
+[2021.07.05-14.26.07:423][926]AssetCheck: New page: 에셋 저장:  TPP_Hero_Animation
+[2021.07.05-14.26.07:423][926]LogContentValidation: Display: AnimBlueprint /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation 유효성 검사 중
+[2021.07.05-14.26.57:573][749]BlueprintLog: New page: TPP_Hero_Animation 컴파일
+[2021.07.05-14.26.57:596][749]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_6
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.26.57:596][749]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_32:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TPP_Hero_Animation_C_6
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.26.57:597][749]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TPP_Hero_Animation_C_6
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.26.57:635][749]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.07.05-14.26.57:701][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/TPP_Hero/TPP_Hero_Animation" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Hero_Animation.uasset" SILENT=true
+[2021.07.05-14.26.57:713][749]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/TPP_Hero_AnimationF503C5F44857FDA5AE1C5C9C4C4390E7.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Hero_Animation.uasset'
+[2021.07.05-14.26.57:727][749]AssetCheck: New page: 에셋 저장:  TPP_Hero_Animation
+[2021.07.05-14.26.57:727][749]LogContentValidation: Display: AnimBlueprint /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation 유효성 검사 중
+[2021.07.05-14.26.57:728][749]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_6
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.26.57:760][750]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_6
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.26.57:775][751]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_6
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.26.57:797][752]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_6
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.26.57:805][753]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_6
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.26.57:813][754]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_6
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.26.57:822][755]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_6
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.26.57:830][756]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_6
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.26.57:838][757]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_6
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.26.57:854][758]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_6
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.26.57:869][759]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_6
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.26.57:884][760]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_6
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.26.57:900][761]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_6
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.00:447][ 17]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.07.05-14.27.00:454][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.05-14.27.00:454][ 17]PIE: New page: PIE 세션: StartLevel (2021. 7. 6. 오전 8:27:00)
+[2021.07.05-14.27.00:454][ 17]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.05-14.27.00:482][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027567s)
+[2021.07.05-14.27.00:482][ 17]LogAIModule: Creating AISystem for world StartLevel
+[2021.07.05-14.27.00:483][ 17]LogPlayLevel: PIE: World Init took: (0.001099s)
+[2021.07.05-14.27.00:483][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.028833s)
+[2021.07.05-14.27.00:530][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.07.05-14.27.00:531][ 17]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.07.05-14.27.00:531][ 17]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.05-14.27.00:531][ 17]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.05-14.27.00:531][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.05-14.27.00:531][ 17]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.05-14.27.00:531][ 17]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.05-14.27.00:531][ 17]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.05-14.27.00:531][ 17]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.05-14.27.00:531][ 17]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.05-14.27.00:532][ 17]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.05-14.27.00:532][ 17]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.05-14.27.00:536][ 17]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.05-14.27.00:536][ 17]LogAudioMixer: Display: 1: FrontRight
+[2021.07.05-14.27.00:552][ 17]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.07.05-14.27.00:552][ 17]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.05-14.27.00:553][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.05-14.27.00:553][ 17]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.05-14.27.00:553][ 17]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.05-14.27.00:553][ 17]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.05-14.27.00:554][ 17]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.05-14.27.00:554][ 17]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.05-14.27.00:554][ 17]LogInit: FAudioDevice initialized.
+[2021.07.05-14.27.00:554][ 17]LogAudio: Display: Audio Device (ID: 15) registered with world 'StartLevel'.
+[2021.07.05-14.27.00:598][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.05-14.27.00:598][ 17]LogLoad: Game class is 'GameModeBase'
+[2021.07.05-14.27.00:601][ 17]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.07.05-23.27.00
+[2021.07.05-14.27.00:602][ 17]LogWorld: Bringing up level for play took: 0.003719
+[2021.07.05-14.27.00:602][ 17]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2021.07.05-14.27.00:604][ 17]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.05-14.27.00:607][ 17]PIE: 서버가 로그인했습니다.
+[2021.07.05-14.27.00:608][ 17]PIE: 에디터에서 플레이 총 시작 시간 0.155초입니다.
+[2021.07.05-14.27.04:823][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.05-14.27.04:823][321]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.05-14.27.04:824][321]LogSlate: Window 'Fatalic 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2021.07.05-14.27.04:827][321]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.27.04:827][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.27.04:838][321]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.05-14.27.04:865][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.27.04:924][321]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.05-14.27.04:925][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.05-14.27.04:926][321]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.05-14.27.04:933][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.07.05-14.27.04:988][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.07.05-14.27.05:005][322]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2021.07.05-14.27.27:697][964]BlueprintLog: New page: TPP_Hero_Animation 컴파일
+[2021.07.05-14.27.27:719][964]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TPP_Hero_Animation_C_7
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.27:719][964]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_32:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TPP_Hero_Animation_C_7
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.27:719][964]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_7
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.27:757][964]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.07.05-14.27.27:817][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/TPP_Hero/TPP_Hero_Animation" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Hero_Animation.uasset" SILENT=true
+[2021.07.05-14.27.27:829][964]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/TPP_Hero_Animation7CC6E5774862424F92C761A03B6EF667.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Hero_Animation.uasset'
+[2021.07.05-14.27.27:843][964]AssetCheck: New page: 에셋 저장:  TPP_Hero_Animation
+[2021.07.05-14.27.27:843][964]LogContentValidation: Display: AnimBlueprint /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation 유효성 검사 중
+[2021.07.05-14.27.27:844][964]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_7
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.27:864][965]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_7
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.27:877][966]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_7
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.27:885][967]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_7
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.27:893][968]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_7
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.27:902][969]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_7
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.27:910][970]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_7
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.27:919][971]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_7
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.27:927][972]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_7
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.27:935][973]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_7
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.27:944][974]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_7
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.27:953][975]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_7
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.27:961][976]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_7
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.29:781][185]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.07.05-14.27.29:787][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.05-14.27.29:787][185]PIE: New page: PIE 세션: StartLevel (2021. 7. 6. 오전 8:27:29)
+[2021.07.05-14.27.29:787][185]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.05-14.27.29:812][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024683s)
+[2021.07.05-14.27.29:813][185]LogAIModule: Creating AISystem for world StartLevel
+[2021.07.05-14.27.29:813][185]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2021.07.05-14.27.29:813][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.025925s)
+[2021.07.05-14.27.29:853][185]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2021.07.05-14.27.29:855][185]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.07.05-14.27.29:855][185]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.05-14.27.29:855][185]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.05-14.27.29:855][185]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.05-14.27.29:855][185]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.05-14.27.29:855][185]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.05-14.27.29:855][185]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.05-14.27.29:855][185]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.05-14.27.29:855][185]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.05-14.27.29:855][185]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.05-14.27.29:855][185]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.05-14.27.29:858][185]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.05-14.27.29:858][185]LogAudioMixer: Display: 1: FrontRight
+[2021.07.05-14.27.29:874][185]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.07.05-14.27.29:874][185]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.05-14.27.29:874][185]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.05-14.27.29:874][185]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.05-14.27.29:874][185]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.05-14.27.29:874][185]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.05-14.27.29:876][185]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.05-14.27.29:876][185]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.05-14.27.29:876][185]LogInit: FAudioDevice initialized.
+[2021.07.05-14.27.29:876][185]LogAudio: Display: Audio Device (ID: 16) registered with world 'StartLevel'.
+[2021.07.05-14.27.29:931][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.05-14.27.29:931][185]LogLoad: Game class is 'GameModeBase'
+[2021.07.05-14.27.29:934][185]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.07.05-23.27.29
+[2021.07.05-14.27.29:934][185]LogWorld: Bringing up level for play took: 0.003488
+[2021.07.05-14.27.29:935][185]LogOnline: OSS: Creating online subsystem instance for: :Context_56
+[2021.07.05-14.27.29:936][185]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.05-14.27.29:939][185]PIE: 서버가 로그인했습니다.
+[2021.07.05-14.27.29:940][185]PIE: 에디터에서 플레이 총 시작 시간 0.155초입니다.
+[2021.07.05-14.27.33:653][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.05-14.27.33:653][443]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.05-14.27.33:653][443]LogSlate: Window 'Fatalic 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2021.07.05-14.27.33:657][443]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.27.33:657][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.27.33:668][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.05-14.27.33:693][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.27.33:729][443]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.05-14.27.33:729][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.05-14.27.33:730][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.05-14.27.33:738][443]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.07.05-14.27.33:783][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.07.05-14.27.33:800][444]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2021.07.05-14.27.56:440][200]BlueprintLog: New page: TPP_Hero_Animation 컴파일
+[2021.07.05-14.27.56:462][200]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_8
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.56:463][200]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_32:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TPP_Hero_Animation_C_8
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.56:463][200]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TPP_Hero_Animation_C_8
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.56:509][200]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2021.07.05-14.27.56:567][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/TPP_Hero/TPP_Hero_Animation" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Hero_Animation.uasset" SILENT=true
+[2021.07.05-14.27.56:577][200]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/TPP_Hero_AnimationCC3E4B144DB7C6A7F879AA994DD7AEB8.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Hero_Animation.uasset'
+[2021.07.05-14.27.56:591][200]AssetCheck: New page: 에셋 저장:  TPP_Hero_Animation
+[2021.07.05-14.27.56:591][200]LogContentValidation: Display: AnimBlueprint /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation 유효성 검사 중
+[2021.07.05-14.27.56:591][200]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_8
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.56:615][201]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_8
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.56:636][202]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_8
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.56:651][203]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_8
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.56:659][204]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_8
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.56:667][205]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_8
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.56:676][206]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_8
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.56:684][207]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_8
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.56:692][208]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_8
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.56:700][209]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_8
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.56:709][210]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_8
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.56:717][211]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_8
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.56:726][212]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_8
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.27.57:714][330]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.07.05-14.27.57:720][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.05-14.27.57:720][330]PIE: New page: PIE 세션: StartLevel (2021. 7. 6. 오전 8:27:57)
+[2021.07.05-14.27.57:720][330]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.05-14.27.57:746][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025160s)
+[2021.07.05-14.27.57:746][330]LogAIModule: Creating AISystem for world StartLevel
+[2021.07.05-14.27.57:747][330]LogPlayLevel: PIE: World Init took: (0.001013s)
+[2021.07.05-14.27.57:747][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.026295s)
+[2021.07.05-14.27.57:794][330]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.07.05-14.27.57:796][330]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.07.05-14.27.57:796][330]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.05-14.27.57:796][330]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.05-14.27.57:796][330]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.05-14.27.57:796][330]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.05-14.27.57:796][330]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.05-14.27.57:796][330]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.05-14.27.57:796][330]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.05-14.27.57:796][330]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.05-14.27.57:796][330]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.05-14.27.57:796][330]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.05-14.27.57:800][330]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.05-14.27.57:800][330]LogAudioMixer: Display: 1: FrontRight
+[2021.07.05-14.27.57:818][330]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.07.05-14.27.57:818][330]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.05-14.27.57:818][330]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.05-14.27.57:819][330]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.05-14.27.57:819][330]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.05-14.27.57:819][330]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.05-14.27.57:820][330]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.05-14.27.57:820][330]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.05-14.27.57:820][330]LogInit: FAudioDevice initialized.
+[2021.07.05-14.27.57:820][330]LogAudio: Display: Audio Device (ID: 17) registered with world 'StartLevel'.
+[2021.07.05-14.27.57:865][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.05-14.27.57:865][330]LogLoad: Game class is 'GameModeBase'
+[2021.07.05-14.27.57:867][330]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.07.05-23.27.57
+[2021.07.05-14.27.57:868][330]LogWorld: Bringing up level for play took: 0.003408
+[2021.07.05-14.27.57:868][330]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2021.07.05-14.27.57:870][330]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.05-14.27.57:873][330]PIE: 서버가 로그인했습니다.
+[2021.07.05-14.27.57:874][330]PIE: 에디터에서 플레이 총 시작 시간 0.156초입니다.
+[2021.07.05-14.28.01:683][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.05-14.28.01:683][606]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.05-14.28.01:684][606]LogSlate: Window 'Fatalic 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2021.07.05-14.28.01:688][606]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.28.01:688][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.28.01:698][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.05-14.28.01:724][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.28.01:761][606]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.05-14.28.01:761][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.05-14.28.01:762][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.05-14.28.01:769][606]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.07.05-14.28.01:809][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.07.05-14.28.01:825][607]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2021.07.05-14.28.04:989][945]BlueprintLog: New page: TPP_Hero_Animation 컴파일
+[2021.07.05-14.28.05:010][945]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_31:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TPP_Hero_Animation_C_9
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.28.05:010][945]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_32:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.TPP_Hero_Animation_C_9
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.28.05:010][945]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_9
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.28.05:057][945]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.07.05-14.28.05:134][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/TPP_Hero/TPP_Hero_Animation" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Hero_Animation.uasset" SILENT=true
+[2021.07.05-14.28.05:147][945]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/TPP_Hero_Animation63771D7844CC18AC99894EA58170BC6E.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Hero_Animation.uasset'
+[2021.07.05-14.28.05:161][945]AssetCheck: New page: 에셋 저장:  TPP_Hero_Animation
+[2021.07.05-14.28.05:161][945]LogContentValidation: Display: AnimBlueprint /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation 유효성 검사 중
+[2021.07.05-14.28.05:162][945]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_9
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.28.05:184][946]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_9
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.28.05:205][947]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_9
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.28.05:220][948]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_9
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.28.05:235][949]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_9
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.28.05:251][950]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_9
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.28.05:266][951]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_9
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.28.05:281][952]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_9
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.28.05:297][953]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_9
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.28.05:312][954]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_9
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.28.05:328][955]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_9
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.28.05:344][956]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_9
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.28.05:359][957]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	TPP_Hero_Animation_C /Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.TPP_Hero_Animation_C_9
+	Function /Game/Character/TPP_Hero/TPP_Hero_Animation.TPP_Hero_Animation_C:ExecuteUbergraph_TPP_Hero_Animation:0040
+[2021.07.05-14.28.18:994][498]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.07.05-14.28.24:972][189]BlueprintLog: New page: TPP_Hero 컴파일
+[2021.07.05-14.28.25:052][189]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.07.05-14.28.25:120][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/TPP_Hero/TPP_HEro" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_HEro.uasset" SILENT=true
+[2021.07.05-14.28.25:128][189]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/TPP_HEro5B1833E64CB275CBC9134EA8B68F7763.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_HEro.uasset'
+[2021.07.05-14.28.25:142][189]AssetCheck: New page: 에셋 저장:  TPP_Hero
+[2021.07.05-14.28.25:142][189]LogContentValidation: Display: Blueprint /Game/Character/TPP_Hero/TPP_HEro.TPP_Hero 유효성 검사 중
+[2021.07.05-14.28.26:055][291]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.07.05-14.28.26:061][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.05-14.28.26:061][291]PIE: New page: PIE 세션: StartLevel (2021. 7. 6. 오전 8:28:26)
+[2021.07.05-14.28.26:061][291]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.05-14.28.26:087][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025656s)
+[2021.07.05-14.28.26:088][291]LogAIModule: Creating AISystem for world StartLevel
+[2021.07.05-14.28.26:088][291]LogPlayLevel: PIE: World Init took: (0.001064s)
+[2021.07.05-14.28.26:088][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.026843s)
+[2021.07.05-14.28.26:128][291]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2021.07.05-14.28.26:130][291]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.07.05-14.28.26:130][291]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.05-14.28.26:130][291]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.05-14.28.26:130][291]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.05-14.28.26:130][291]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.05-14.28.26:130][291]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.05-14.28.26:130][291]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.05-14.28.26:130][291]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.05-14.28.26:130][291]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.05-14.28.26:130][291]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.05-14.28.26:130][291]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.05-14.28.26:134][291]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.05-14.28.26:134][291]LogAudioMixer: Display: 1: FrontRight
+[2021.07.05-14.28.26:150][291]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.07.05-14.28.26:151][291]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.05-14.28.26:151][291]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.05-14.28.26:151][291]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.05-14.28.26:151][291]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.05-14.28.26:151][291]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.05-14.28.26:152][291]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.05-14.28.26:152][291]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.05-14.28.26:152][291]LogInit: FAudioDevice initialized.
+[2021.07.05-14.28.26:152][291]LogAudio: Display: Audio Device (ID: 18) registered with world 'StartLevel'.
+[2021.07.05-14.28.26:198][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.05-14.28.26:199][291]LogLoad: Game class is 'GameModeBase'
+[2021.07.05-14.28.26:202][291]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.07.05-23.28.26
+[2021.07.05-14.28.26:202][291]LogWorld: Bringing up level for play took: 0.003528
+[2021.07.05-14.28.26:202][291]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2021.07.05-14.28.26:204][291]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.05-14.28.26:206][291]PIE: 서버가 로그인했습니다.
+[2021.07.05-14.28.26:206][291]PIE: 에디터에서 플레이 총 시작 시간 0.147초입니다.
+[2021.07.05-14.28.50:869][770]LogCharacterMovement: FPP_Hero_2 is stuck and failed to move! Velocity: X=404.71 Y=-8.54 Z=0.00 Location: X=-1086.18 Y=-1027.69 Z=90.34 Normal: X=-0.69 Y=0.69 Z=0.24 PenetrationDepth:1.003 Actor: Component:ModelComponent_12 BoneName:None (0 other events since notify)
+[2021.07.05-14.28.51:878][871]LogCharacterMovement: FPP_Hero_2 is stuck and failed to move! Velocity: X=152.60 Y=-580.27 Z=0.00 Location: X=-1118.10 Y=-1052.13 Z=90.15 Normal: X=0.83 Y=-0.56 Z=0.00 PenetrationDepth:0.316 Actor: Component:CollisionCylinder BoneName:None (49 other events since notify)
+[2021.07.05-14.29.16:314][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.05-14.29.16:314][335]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.05-14.29.16:314][335]LogSlate: Window 'Fatalic 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2021.07.05-14.29.16:324][335]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.29.16:325][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.29.16:333][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.05-14.29.16:360][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.29.16:398][335]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.05-14.29.16:398][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.05-14.29.16:399][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.05-14.29.16:406][335]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.07.05-14.29.16:463][335]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.07.05-14.29.16:489][336]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2021.07.05-14.29.20:818][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartLevel" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Maps/StartLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.05-14.29.20:874][794]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.07.05-14.29.20:954][794]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/StartLevelF333764646DE5986D7D7E5A705983798.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Maps/StartLevel.umap'
+[2021.07.05-14.29.20:960][794]Message dialog closed, result: Ok, title: 소스 컨트롤에서 체크아웃할 수 없습니다!, text: 다음 애셋을 소스 컨트롤에서 체크아웃 시키지 못했습니다:
+/Game/Maps/StartLevel_BuiltData
+[2021.07.05-14.29.20:960][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartLevel_BuiltData" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Maps/StartLevel_BuiltData.uasset" SILENT=true
+[2021.07.05-14.29.21:004][794]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/StartLevel_BuiltData35DC26404F601FF1FE5DC4A0B1B88946.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Maps/StartLevel_BuiltData.uasset'
+[2021.07.05-14.29.21:005][794]Message dialog closed, result: Ok, title: 소스 컨트롤에서 체크아웃할 수 없습니다!, text: 다음 애셋을 소스 컨트롤에서 체크아웃 시키지 못했습니다:
+/Game/Maps/StartLevel_BuiltData
+[2021.07.05-14.29.21:020][794]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2021.07.05-14.29.21:020][794]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/StartLevel_BuiltData.StartLevel_BuiltData 유효성 검사 중
+[2021.07.05-14.29.21:020][794]LogContentValidation: Display: World /Game/Maps/StartLevel.StartLevel 유효성 검사 중
