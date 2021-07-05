@@ -1909,3 +1909,444 @@ Script Stack (0 frames):
 [2021.07.05-13.52.43:353][416]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/BotController64726AC049CBE0266561CCB974E87A5A.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/BotController.uasset'
 [2021.07.05-13.52.43:374][416]AssetCheck: New page: 에셋 저장:  BotController
 [2021.07.05-13.52.43:374][416]LogContentValidation: Display: Blueprint /Game/Character/TPP_Hero/BotController.BotController 유효성 검사 중
+[2021.07.05-14.06.43:078][805]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.07.05-14.06.43:101][805]LogContentBrowser: Creating deferred item: NewFolder
+[2021.07.05-14.06.47:813][231]LogContentBrowser: Attempting asset rename: NewFolder -> AlienSoldier
+[2021.07.05-14.06.47:813][231]LogContentBrowser: End creating deferred item NewFolder
+[2021.07.05-14.07.35:900][852]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 I:\Unreal Project\Fatalic 5.0\Asset\AlienSoldier\Breathing Idle.fbx)
+[2021.07.05-14.07.36:135][852]LogFbx: Loading FBX Scene from I:\Unreal Project\Fatalic 5.0\Asset\AlienSoldier\Breathing Idle.fbx
+[2021.07.05-14.07.36:286][852]LogFbx: FBX Scene Loaded Succesfully
+[2021.07.05-14.08.08:968][852]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2021.07.05-14.08.08:996][852]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Ch44 : The relative matrices do not match
+[2021.07.05-14.08.08:996][852]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.07.05-14.08.08:996][852]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ch44
+[2021.07.05-14.08.08:996][852]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.07.05-14.08.09:005][852]LogMaterial: Display: Material /Game/Character/AlienSoldier/Ch44_Body.Ch44_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2021.07.05-14.08.09:006][852]LogMaterial: Display: Missing cached shadermap for Ch44_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 502C77DCE69A5D4071430794E2F2F600553DA6BA), compiling. 
+[2021.07.05-14.08.09:620][852]LogTexture: Display: 텍스처 빌드: Ch44_1002_Diffuse (AutoDXT, 4096X4096)
+[2021.07.05-14.08.10:325][852]LogTexture: Display: 텍스처 빌드: Ch44_1002_Emissive (AutoDXT, 4096X4096)
+[2021.07.05-14.08.11:341][852]LogMaterial: Display: Missing cached shadermap for Ch44_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 5A02ECB37F7CB294E4E63957A27C0E7A3F391295), compiling. 
+[2021.07.05-14.08.11:347][852]LogMaterial: Display: Material /Game/Character/AlienSoldier/Ch44_body1.Ch44_body1 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.07.05-14.08.11:363][852]LogMaterial: Display: Missing cached shadermap for Ch44_body1 in PCD3D_SM5, Default, SM5 (DDC key hash: C32BE9DE1AC8AEB8684AB86588894AC3E8DA7854), compiling. 
+[2021.07.05-14.08.14:034][852]LogMaterial: Display: Missing cached shadermap for Ch44_body1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1C500F9E333ED6901C6FC46DFAD009D1B7CBD89E), compiling. 
+[2021.07.05-14.08.14:055][852]LogFbx: Triangulating skeletal mesh Ch44
+[2021.07.05-14.08.16:185][852]LogTexture: Display: 텍스처 빌드: Ch44_1002_Specular (AutoDXT, 4096X4096)
+[2021.07.05-14.08.16:187][852]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2021.07.05-14.08.17:671][852]LogSkeletalMesh: Section 0: Material=0, 23238 triangles
+[2021.07.05-14.08.17:671][852]LogSkeletalMesh: Section 1: Material=1, 22870 triangles
+[2021.07.05-14.08.18:036][852]LogSkeletalMesh: Building Skeletal Mesh Breathing_Idle...
+[2021.07.05-14.08.19:326][852]LogSkeletalMesh: Section 0: Material=0, 23238 triangles
+[2021.07.05-14.08.19:326][852]LogSkeletalMesh: Section 1: Material=1, 22870 triangles
+[2021.07.05-14.08.19:366][852]LogSkeletalMesh: Built Skeletal Mesh [1.33s] /Game/Character/AlienSoldier/Breathing_Idle.Breathing_Idle
+[2021.07.05-14.08.19:430][852]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.08.19:430][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.08.19:445][852]LogFbx: SortedLinks :(0) Hips
+[2021.07.05-14.08.19:445][852]LogFbx: SortedLinks :(1) Spine
+[2021.07.05-14.08.19:445][852]LogFbx: SortedLinks :(2) Spine1
+[2021.07.05-14.08.19:445][852]LogFbx: SortedLinks :(3) Spine2
+[2021.07.05-14.08.19:445][852]LogFbx: SortedLinks :(4) Neck
+[2021.07.05-14.08.19:445][852]LogFbx: SortedLinks :(5) Head
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(8) LeftArm
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(10) LeftHand
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(31) RightShoulder
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(32) RightArm
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(33) RightForeArm
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(34) RightHand
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(56) LeftLeg
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(57) LeftFoot
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(61) RightLeg
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(62) RightFoot
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(63) RightToeBase
+[2021.07.05-14.08.19:446][852]LogFbx: SortedLinks :(64) RightToe_End
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(0) Hips
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(1) Spine
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(2) Spine1
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(3) Spine2
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(4) Neck
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(5) Head
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(8) LeftArm
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(10) LeftHand
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(31) RightShoulder
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(32) RightArm
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(33) RightForeArm
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(34) RightHand
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(56) LeftLeg
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(57) LeftFoot
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(61) RightLeg
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(62) RightFoot
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(63) RightToeBase
+[2021.07.05-14.08.19:447][852]LogFbx: SortedLinks :(64) RightToe_End
+[2021.07.05-14.08.19:449][852]LogFbx: Parsing AnimStack Take 001
+[2021.07.05-14.08.19:702][852]LogTexture: Display: 텍스처 빌드: Ch44_1002_Glossiness (AutoDXT, 4096X4096)
+[2021.07.05-14.08.20:752][852]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FPP_Hero_Animation_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPP_Hero_Animation_C_0
+	Function /Game/Character/FPP_Hero/FPP_Hero_Animation.FPP_Hero_Animation_C:ExecuteUbergraph_FPP_Hero_Animation:0040
+[2021.07.05-14.08.20:753][852]LogFbx: Parsing AnimStack mixamo.com
+[2021.07.05-14.08.22:221][852]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FPP_Hero_Animation_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPP_Hero_Animation_C_0
+	Function /Game/Character/FPP_Hero/FPP_Hero_Animation.FPP_Hero_Animation_C:ExecuteUbergraph_FPP_Hero_Animation:0040
+[2021.07.05-14.08.22:281][852]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.07.05-14.08.22:448][853]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 0/2 (Ch44_1002_Normal)...
+[2021.07.05-14.08.23:489][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.23:919][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.24:348][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.24:765][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.25:198][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.25:632][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.26:091][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/AlienSoldier/Breathing_Idle_Anim_Take_001.Breathing_Idle_Anim_Take_001
+[2021.07.05-14.08.26:091][853]LogTexture: Display: 텍스처 빌드: Ch44_1002_Normal (BC5, 4096X4096)
+[2021.07.05-14.08.26:091][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.26:542][853]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/AlienSoldier/Breathing_Idle_Anim_mixamo_com.Breathing_Idle_Anim_mixamo_com
+[2021.07.05-14.08.26:542][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.26:999][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.27:440][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.27:808][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.27:835][853]LogTexture: Display: 텍스처 빌드: Ch44_1001_Diffuse (AutoDXT, 4096X4096)
+[2021.07.05-14.08.27:835][853]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 0/5 (Ch44_1001_Normal)...
+[2021.07.05-14.08.28:867][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.28:869][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.29:299][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.29:733][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.30:150][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.30:583][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.30:999][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.31:402][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.31:819][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.32:252][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.32:677][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.33:108][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.33:549][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.33:776][853]LogTexture: Display: 텍스처 빌드: Ch44_1001_Normal (BC5, 4096X4096)
+[2021.07.05-14.08.33:977][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.34:390][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.34:824][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.34:990][853]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 1/5 (Ch44_1001_Emissive)...
+[2021.07.05-14.08.35:039][853]LogTexture: Display: 텍스처 빌드: Ch44_1001_Emissive (AutoDXT, 4096X4096)
+[2021.07.05-14.08.35:257][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.35:690][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.36:041][853]LogTexture: Display: 텍스처 빌드: Ch44_1001_Glossiness (AutoDXT, 4096X4096)
+[2021.07.05-14.08.36:041][853]LogTexture: Display: 텍스처가 준비 되기를 기다리는 중 3/5 (Ch44_1001_Glossiness)...
+[2021.07.05-14.08.36:104][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.36:593][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.37:012][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.37:445][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.45:920][853]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s, reporting...
+[2021.07.05-14.08.45:920][853]LogTexture: Display: 텍스처 빌드: Ch44_1001_Specular (AutoDXT, 4096X4096)
+[2021.07.05-14.08.45:920][853]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' report submitted, and took 0.049696s
+[2021.07.05-14.08.45:921][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.45:925][853]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.07.05-14.08.45:927][853]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 10.058878s (0.058878s overbudget)
+[2021.07.05-14.08.46:042][854]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.07.05-14.08.46:042][854]LogShaderCompilers: Display: Total job queries 96, among them cache hits 0 (0.00%)
+[2021.07.05-14.08.46:042][854]LogShaderCompilers: Display: Tracking 20 distinct input hashes that result in 17 distinct outputs (85.00%)
+[2021.07.05-14.08.46:042][854]LogShaderCompilers: Display: RAM used: 0.05 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2021.07.05-14.08.46:042][854]LogShaderCompilers: Display: ================================================
+[2021.07.05-14.09.04:805][908]LogSlate: Window '메시지 로그' being destroyed
+[2021.07.05-14.09.04:826][908]LogSlate: Window '메시지 로그' being destroyed
+[2021.07.05-14.09.09:550][316]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Character/AlienSoldier/Breathing_Idle.Breathing_Idle
+[2021.07.05-14.09.09:589][316]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.07.05-14.09.09:635][316]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (Sphere_inversenormals)...
+[2021.07.05-14.09.09:715][316]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (Floor_Mesh)...
+[2021.07.05-14.09.09:775][316]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.05-14.09.09:784][316]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2021.07.05-14.09.13:547][625]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Character/AlienSoldier/Breathing_Idle_Anim_Take_001.Breathing_Idle_Anim_Take_001
+[2021.07.05-14.09.13:580][625]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.05-14.09.14:222][625]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.07.05-14.09.18:798][121]LogContentBrowser: Attempting asset rename: Breathing_Idle_Anim_Take_001 -> Breathing_Idle_Anim_Take_001
+[2021.07.05-14.09.23:702][666]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.09.23:702][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.09.25:149][809]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.09.25:150][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.09.25:963][889]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.09.25:963][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.09.29:203][224]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.09.29:203][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.09.29:222][224]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.09.29:222][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.09.29:271][224]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.09.29:271][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.09.45:341][570]LogContentBrowser: Attempting asset rename: Breathing_Idle -> AlienSoldier
+[2021.07.05-14.09.45:403][570]LogMetaData: Removing '/Game/Character/AlienSoldier/AlienSoldier.AlienSoldier' ref from Metadata '/Game/Character/AlienSoldier/Breathing_Idle.PackageMetaData'
+[2021.07.05-14.09.45:482][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/AlienSoldier/AlienSoldier" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/AlienSoldier.uasset" SILENT=true
+[2021.07.05-14.09.45:618][570]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier5393714842E08B80D2FDA5BDD41ECB86.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/AlienSoldier.uasset'
+[2021.07.05-14.09.45:878][570]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2021.07.05-14.09.45:946][570]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.07.05-14.09.46:001][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.07.05-14.09.46:010][570]AssetCheck: New page: 에셋 저장:  AlienSoldier
+[2021.07.05-14.09.46:010][570]LogContentValidation: Display: SkeletalMesh /Game/Character/AlienSoldier/AlienSoldier.AlienSoldier 유효성 검사 중
+[2021.07.05-14.10.00:072][542]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Character/AlienSoldier/Breathing_Idle_Anim_mixamo_com.Breathing_Idle_Anim_mixamo_com
+[2021.07.05-14.10.00:076][542]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.05-14.10.00:391][542]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.07.05-14.10.02:855][812]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.10.02:855][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.10.02:869][812]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.10.02:869][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.10.02:921][812]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.10.02:921][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.10.08:513][316]LogContentBrowser: Attempting asset rename: AlienSoldier -> AlienSoldier
+[2021.07.05-14.10.08:903][348]LogHttp: Warning: 000006343F22D200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF960A2F6-4C8C-5181-D3AB-1F867D2F8B2C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.0-16682836%2B%2B%2BUE5%2BRelease-5.0-EarlyAccess&UserID=35f9c17f4ffea800194972827df176e0%7C05d56733bce04554a00ae72eb638a898%7C435c5e4d-9886-49a4-ac68-822ece0e644d&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.07.05-14.10.08:903][348]LogHttp: Warning: 000006343F22D200: request failed, libcurl error: 0 (No error)
+[2021.07.05-14.10.08:903][348]LogHttp: Warning: 000006343F22D200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x633e10a0330 [can pipeline])
+[2021.07.05-14.10.08:903][348]LogHttp: Warning: 000006343F22D200: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2021.07.05-14.10.08:903][348]LogHttp: Warning: 000006343F22D200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (50.16.19.45) port 443 (#1))
+[2021.07.05-14.10.08:903][348]LogHttp: Warning: 000006343F22D200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.07.05-14.10.08:903][348]LogHttp: Warning: 000006343F22D200: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2021.07.05-14.10.08:903][348]LogHttp: Warning: 000006343F22D200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.07.05-14.10.08:903][348]LogHttp: Warning: 000006343F22D200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.07.05-14.10.08:903][348]LogHttp: Warning: 000006343F22D200: libcurl info message cache 7 (Closing connection 1)
+[2021.07.05-14.10.08:903][348]LogHttp: Warning: 000006343F22D200: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.07.05-14.10.08:904][348]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF960A2F6-4C8C-5181-D3AB-1F867D2F8B2C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.0-16682836%2B%2B%2BUE5%2BRelease-5.0-EarlyAccess&UserID=35f9c17f4ffea800194972827df176e0%7C05d56733bce04554a00ae72eb638a898%7C435c5e4d-9886-49a4-ac68-822ece0e644d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.07.05-14.10.18:316][178]LogContentBrowser: Attempting asset rename: Breathing_Idle_Anim_mixamo_com -> AlienSoldier_Breathing_Idle
+[2021.07.05-14.10.18:387][178]LogMetaData: Removing '/Game/Character/AlienSoldier/AlienSoldier_Breathing_Idle.AlienSoldier_Breathing_Idle' ref from Metadata '/Game/Character/AlienSoldier/Breathing_Idle_Anim_mixamo_com.PackageMetaData'
+[2021.07.05-14.10.18:500][178]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier_Breathing_Idle3EBFFAF2456F32A11B375EA73C1E9685.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/AlienSoldier_Breathing_Idle.uasset'
+[2021.07.05-14.10.18:703][178]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.07.05-14.10.18:761][178]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.07.05-14.10.18:797][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.07.05-14.10.18:804][178]AssetCheck: New page: 에셋 저장:  AlienSoldier_Breathing_Idle
+[2021.07.05-14.10.18:804][178]LogContentValidation: Display: AnimSequence /Game/Character/AlienSoldier/AlienSoldier_Breathing_Idle.AlienSoldier_Breathing_Idle 유효성 검사 중
+[2021.07.05-14.10.33:887][831]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Character/AlienSoldier/Breathing_Idle_Anim_Take_001.Breathing_Idle_Anim_Take_001
+[2021.07.05-14.10.33:891][831]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.05-14.10.34:179][831]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.07.05-14.10.36:186][ 62]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.10.36:186][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.10.36:198][ 62]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.10.36:198][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.10.36:239][ 62]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.07.05-14.10.36:239][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.05-14.10.44:593][679]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.07.05-14.10.45:718][679]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.05-14.10.45:835][679]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Character/AlienSoldier/Breathing_Idle_Anim_Take_001.Breathing_Idle_Anim_Take_001
+[2021.07.05-14.10.46:381][679]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2021.07.05-14.10.46:573][679]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.07.05-14.10.48:612][815]LogContentBrowser: Attempting asset rename: AlienSoldier -> AlienSoldier
+[2021.07.05-14.11.09:547][670]LogContentBrowser: Attempting asset rename: Breathing_Idle_PhysicsAsset -> AlienSoldier_PhysicsAsset
+[2021.07.05-14.11.09:653][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/AlienSoldier/AlienSoldier" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/AlienSoldier.uasset" SILENT=true
+[2021.07.05-14.11.09:781][670]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier4CBEEB184C45A5481B6C40B693F259BC.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/AlienSoldier.uasset'
+[2021.07.05-14.11.09:810][670]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier_PhysicsAsset47A1BEB146DFAC47A827E8A1A4D84921.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/AlienSoldier_PhysicsAsset.uasset'
+[2021.07.05-14.11.10:118][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.07.05-14.11.10:177][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.07.05-14.11.10:210][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.07.05-14.11.10:218][670]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2021.07.05-14.11.10:218][670]LogContentValidation: Display: PhysicsAsset /Game/Character/AlienSoldier/AlienSoldier_PhysicsAsset.AlienSoldier_PhysicsAsset 유효성 검사 중
+[2021.07.05-14.11.10:218][670]LogContentValidation: Display: SkeletalMesh /Game/Character/AlienSoldier/AlienSoldier.AlienSoldier 유효성 검사 중
+[2021.07.05-14.11.31:666][767]LogContentBrowser: Attempting asset rename: Breathing_Idle_Skeleton -> AlienSoldier_Skeleton
+[2021.07.05-14.11.31:720][767]LogMetaData: Removing '/Game/Character/AlienSoldier/AlienSoldier_Skeleton.AlienSoldier_Skeleton' ref from Metadata '/Game/Character/AlienSoldier/Breathing_Idle_Skeleton.PackageMetaData'
+[2021.07.05-14.11.31:788][767]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier_Breathing_IdleB0509CA4488FB5683BC6998EA2763C19.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/AlienSoldier_Breathing_Idle.uasset'
+[2021.07.05-14.11.31:789][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/AlienSoldier/AlienSoldier" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/AlienSoldier.uasset" SILENT=true
+[2021.07.05-14.11.31:917][767]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldierF04DA5514ADDA0BECE037AB0670A29D4.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/AlienSoldier.uasset'
+[2021.07.05-14.11.31:918][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/AlienSoldier/AlienSoldier_Skeleton" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/AlienSoldier_Skeleton.uasset" SILENT=true
+[2021.07.05-14.11.31:921][767]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier_Skeleton45E3B80A43C77A590B71919995219AEA.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/AlienSoldier_Skeleton.uasset'
+[2021.07.05-14.11.32:201][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.07.05-14.11.32:247][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.07.05-14.11.32:279][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.07.05-14.11.32:287][767]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2021.07.05-14.11.32:288][767]LogContentValidation: Display: AnimSequence /Game/Character/AlienSoldier/AlienSoldier_Breathing_Idle.AlienSoldier_Breathing_Idle 유효성 검사 중
+[2021.07.05-14.11.32:288][767]LogContentValidation: Display: Skeleton /Game/Character/AlienSoldier/AlienSoldier_Skeleton.AlienSoldier_Skeleton 유효성 검사 중
+[2021.07.05-14.11.32:288][767]LogContentValidation: Display: SkeletalMesh /Game/Character/AlienSoldier/AlienSoldier.AlienSoldier 유효성 검사 중
+[2021.07.05-14.11.54:493][590]LogContentBrowser: Attempting asset rename: AlienSoldier -> AlienSoldier_Mesh
+[2021.07.05-14.11.54:553][590]LogMetaData: Removing '/Game/Character/AlienSoldier/AlienSoldier_Mesh.AlienSoldier_Mesh' ref from Metadata '/Game/Character/AlienSoldier/AlienSoldier.PackageMetaData'
+[2021.07.05-14.11.54:610][590]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier_PhysicsAsset4203FF344FF64688AA94EFB68F62125D.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/AlienSoldier_PhysicsAsset.uasset'
+[2021.07.05-14.11.54:611][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/AlienSoldier/AlienSoldier_Mesh" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/AlienSoldier_Mesh.uasset" SILENT=true
+[2021.07.05-14.11.54:740][590]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier_Mesh261347E047CE8DA2DB13159A963F21F8.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/AlienSoldier_Mesh.uasset'
+[2021.07.05-14.11.55:037][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.07.05-14.11.55:076][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.07.05-14.11.55:108][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.07.05-14.11.55:118][590]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2021.07.05-14.11.55:118][590]LogContentValidation: Display: PhysicsAsset /Game/Character/AlienSoldier/AlienSoldier_PhysicsAsset.AlienSoldier_PhysicsAsset 유효성 검사 중
+[2021.07.05-14.11.55:118][590]LogContentValidation: Display: SkeletalMesh /Game/Character/AlienSoldier/AlienSoldier_Mesh.AlienSoldier_Mesh 유효성 검사 중
+[2021.07.05-14.12.05:525][949]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.07.05-14.12.05:578][949]LogContentBrowser: Creating deferred item: NewFolder
+[2021.07.05-14.12.07:401][105]LogContentBrowser: Attempting asset rename: NewFolder -> Mesh
+[2021.07.05-14.12.07:402][105]LogContentBrowser: End creating deferred item NewFolder
+[2021.07.05-14.12.11:668][418]LogMetaData: Removing '/Game/Character/AlienSoldier/Mesh/AlienSoldier_Mesh.AlienSoldier_Mesh' ref from Metadata '/Game/Character/AlienSoldier/AlienSoldier_Mesh.PackageMetaData'
+[2021.07.05-14.12.11:671][418]LogMetaData: Removing '/Game/Character/AlienSoldier/Mesh/AlienSoldier_Skeleton.AlienSoldier_Skeleton' ref from Metadata '/Game/Character/AlienSoldier/AlienSoldier_Skeleton.PackageMetaData'
+[2021.07.05-14.12.11:756][418]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier_Breathing_Idle0D7565E2484EF0B9724CA18CA69489AD.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/AlienSoldier_Breathing_Idle.uasset'
+[2021.07.05-14.12.11:757][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/AlienSoldier/Mesh/AlienSoldier_Mesh" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Mesh/AlienSoldier_Mesh.uasset" SILENT=true
+[2021.07.05-14.12.11:887][418]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier_Mesh293DDC6B49891AE3F4B1798B639A7066.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Mesh/AlienSoldier_Mesh.uasset'
+[2021.07.05-14.12.11:894][418]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier_PhysicsAsset666A401B4E20D4B75A9712A7BEC8F996.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Mesh/AlienSoldier_PhysicsAsset.uasset'
+[2021.07.05-14.12.11:897][418]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier_Skeleton59751CBA461F62A39FA4A4B34D9BCF0D.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Mesh/AlienSoldier_Skeleton.uasset'
+[2021.07.05-14.12.12:511][418]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.07.05-14.12.12:553][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.07.05-14.12.12:603][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.07.05-14.12.12:624][418]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2021.07.05-14.12.12:624][418]LogContentValidation: Display: AnimSequence /Game/Character/AlienSoldier/AlienSoldier_Breathing_Idle.AlienSoldier_Breathing_Idle 유효성 검사 중
+[2021.07.05-14.12.12:624][418]LogContentValidation: Display: PhysicsAsset /Game/Character/AlienSoldier/Mesh/AlienSoldier_PhysicsAsset.AlienSoldier_PhysicsAsset 유효성 검사 중
+[2021.07.05-14.12.12:624][418]LogContentValidation: Display: Skeleton /Game/Character/AlienSoldier/Mesh/AlienSoldier_Skeleton.AlienSoldier_Skeleton 유효성 검사 중
+[2021.07.05-14.12.12:624][418]LogContentValidation: Display: SkeletalMesh /Game/Character/AlienSoldier/Mesh/AlienSoldier_Mesh.AlienSoldier_Mesh 유효성 검사 중
+[2021.07.05-14.12.25:199][554]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.07.05-14.12.25:243][554]LogContentBrowser: Creating deferred item: NewFolder
+[2021.07.05-14.12.27:089][715]LogContentBrowser: Attempting asset rename: NewFolder -> Texture
+[2021.07.05-14.12.27:089][715]LogContentBrowser: End creating deferred item NewFolder
+[2021.07.05-14.12.37:836][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/AlienSoldier/Mesh/AlienSoldier_Mesh" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Mesh/AlienSoldier_Mesh.uasset" SILENT=true
+[2021.07.05-14.12.37:964][185]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier_Mesh2793880E42FBCC601F57D8BF0876E887.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Mesh/AlienSoldier_Mesh.uasset'
+[2021.07.05-14.12.38:712][185]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Ch44_1001_DiffuseB3DF97E84C03081AA6BDD59FEE662531.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Texture/Ch44_1001_Diffuse.uasset'
+[2021.07.05-14.12.38:954][185]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Ch44_1001_Emissive4358E725445B65080A087D88A575A777.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Texture/Ch44_1001_Emissive.uasset'
+[2021.07.05-14.12.39:233][185]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Ch44_1001_Glossiness93D1C0AF40CA62530F4A909444E9D18D.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Texture/Ch44_1001_Glossiness.uasset'
+[2021.07.05-14.12.40:371][185]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Ch44_1001_Normal1F120C22489179C690D72EBF988D497C.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Texture/Ch44_1001_Normal.uasset'
+[2021.07.05-14.12.40:703][185]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Ch44_1001_Specular457A5D234748E436242CAB9E37E99279.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Texture/Ch44_1001_Specular.uasset'
+[2021.07.05-14.12.41:470][185]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Ch44_1002_DiffuseCF44295442DEE0F26EB8FA8ECF6F895A.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Texture/Ch44_1002_Diffuse.uasset'
+[2021.07.05-14.12.41:707][185]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Ch44_1002_EmissiveC337DFA24FE3778382AB318FA7FECBCE.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Texture/Ch44_1002_Emissive.uasset'
+[2021.07.05-14.12.41:991][185]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Ch44_1002_Glossiness1C00E06A49757AC15B0B1CB44E2C01C5.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Texture/Ch44_1002_Glossiness.uasset'
+[2021.07.05-14.12.43:128][185]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Ch44_1002_Normal17FA153F45B34F248BDDA6B04CDBAC9F.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Texture/Ch44_1002_Normal.uasset'
+[2021.07.05-14.12.43:558][185]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Ch44_1002_SpecularFC196C39427BFC32BFC54BB82ECE917C.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Texture/Ch44_1002_Specular.uasset'
+[2021.07.05-14.12.43:577][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/AlienSoldier/Texture/Ch44_Body" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Texture/Ch44_Body.uasset" SILENT=true
+[2021.07.05-14.12.43:583][185]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Ch44_Body06916369415D5FAE5E8B0FAB0F8C022E.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Texture/Ch44_Body.uasset'
+[2021.07.05-14.12.43:598][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/AlienSoldier/Texture/Ch44_body1" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Texture/Ch44_body1.uasset" SILENT=true
+[2021.07.05-14.12.43:604][185]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Ch44_body114974FC44EA6CFA9A4B1248E5F55BB23.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Texture/Ch44_body1.uasset'
+[2021.07.05-14.12.45:539][185]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.07.05-14.12.45:586][185]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.07.05-14.12.45:619][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.07.05-14.12.45:643][185]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2021.07.05-14.12.45:643][185]LogContentValidation: Display: Material /Game/Character/AlienSoldier/Texture/Ch44_Body.Ch44_Body 유효성 검사 중
+[2021.07.05-14.12.45:643][185]LogContentValidation: Display: Texture2D /Game/Character/AlienSoldier/Texture/Ch44_1001_Normal.Ch44_1001_Normal 유효성 검사 중
+[2021.07.05-14.12.45:643][185]LogContentValidation: Display: Texture2D /Game/Character/AlienSoldier/Texture/Ch44_1001_Glossiness.Ch44_1001_Glossiness 유효성 검사 중
+[2021.07.05-14.12.45:643][185]LogContentValidation: Display: Texture2D /Game/Character/AlienSoldier/Texture/Ch44_1001_Specular.Ch44_1001_Specular 유효성 검사 중
+[2021.07.05-14.12.45:643][185]LogContentValidation: Display: Texture2D /Game/Character/AlienSoldier/Texture/Ch44_1001_Emissive.Ch44_1001_Emissive 유효성 검사 중
+[2021.07.05-14.12.45:643][185]LogContentValidation: Display: Texture2D /Game/Character/AlienSoldier/Texture/Ch44_1001_Diffuse.Ch44_1001_Diffuse 유효성 검사 중
+[2021.07.05-14.12.45:643][185]LogContentValidation: Display: Material /Game/Character/AlienSoldier/Texture/Ch44_body1.Ch44_body1 유효성 검사 중
+[2021.07.05-14.12.45:643][185]LogContentValidation: Display: Texture2D /Game/Character/AlienSoldier/Texture/Ch44_1002_Normal.Ch44_1002_Normal 유효성 검사 중
+[2021.07.05-14.12.45:643][185]LogContentValidation: Display: Texture2D /Game/Character/AlienSoldier/Texture/Ch44_1002_Glossiness.Ch44_1002_Glossiness 유효성 검사 중
+[2021.07.05-14.12.45:643][185]LogContentValidation: Display: Texture2D /Game/Character/AlienSoldier/Texture/Ch44_1002_Specular.Ch44_1002_Specular 유효성 검사 중
+[2021.07.05-14.12.45:643][185]LogContentValidation: Display: Texture2D /Game/Character/AlienSoldier/Texture/Ch44_1002_Emissive.Ch44_1002_Emissive 유효성 검사 중
+[2021.07.05-14.12.45:643][185]LogContentValidation: Display: Texture2D /Game/Character/AlienSoldier/Texture/Ch44_1002_Diffuse.Ch44_1002_Diffuse 유효성 검사 중
+[2021.07.05-14.12.45:643][185]LogContentValidation: Display: SkeletalMesh /Game/Character/AlienSoldier/Mesh/AlienSoldier_Mesh.AlienSoldier_Mesh 유효성 검사 중
+[2021.07.05-14.12.47:325][321]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.07.05-14.12.47:375][321]LogContentBrowser: Creating deferred item: NewFolder
+[2021.07.05-14.12.50:727][622]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2021.07.05-14.12.50:727][622]LogContentBrowser: End creating deferred item NewFolder
+[2021.07.05-14.12.54:302][898]LogMetaData: Removing '/Game/Character/AlienSoldier/Animations/AlienSoldier_Breathing_Idle.AlienSoldier_Breathing_Idle' ref from Metadata '/Game/Character/AlienSoldier/AlienSoldier_Breathing_Idle.PackageMetaData'
+[2021.07.05-14.12.54:391][898]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier_Breathing_Idle789D0EA943DE0195D70197864E18F55F.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Animations/AlienSoldier_Breathing_Idle.uasset'
+[2021.07.05-14.12.54:690][898]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.07.05-14.12.54:734][898]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.07.05-14.12.54:769][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.07.05-14.12.54:791][898]AssetCheck: New page: 에셋 저장:  AlienSoldier_Breathing_Idle
+[2021.07.05-14.12.54:791][898]LogContentValidation: Display: AnimSequence /Game/Character/AlienSoldier/Animations/AlienSoldier_Breathing_Idle.AlienSoldier_Breathing_Idle 유효성 검사 중
+[2021.07.05-14.13.08:900][120]LogContentBrowser: Attempting asset rename: Animations -> Animation
+[2021.07.05-14.13.08:971][120]LogMetaData: Removing '/Game/Character/AlienSoldier/Animation/AlienSoldier_Breathing_Idle.AlienSoldier_Breathing_Idle' ref from Metadata '/Game/Character/AlienSoldier/Animations/AlienSoldier_Breathing_Idle.PackageMetaData'
+[2021.07.05-14.13.09:055][120]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier_Breathing_IdleF5903C2B489B516D84E433A3477F9095.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Animation/AlienSoldier_Breathing_Idle.uasset'
+[2021.07.05-14.13.09:338][120]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.07.05-14.13.09:378][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.07.05-14.13.09:418][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.07.05-14.13.09:451][120]AssetCheck: New page: 에셋 저장:  AlienSoldier_Breathing_Idle
+[2021.07.05-14.13.09:451][120]LogContentValidation: Display: AnimSequence /Game/Character/AlienSoldier/Animation/AlienSoldier_Breathing_Idle.AlienSoldier_Breathing_Idle 유효성 검사 중
+[2021.07.05-14.14.15:036][764]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.07.05-14.14.31:122][554]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/AlienSoldier/TPP_Hero.TPP_Hero
+[2021.07.05-14.14.37:609][113]LogContentBrowser: Attempting asset rename: TPP_Hero -> AlienSoldier
+[2021.07.05-14.14.37:657][113]LogMetaData: Removing '/Game/Character/AlienSoldier/AlienSoldier.SKEL_AlienSoldier_C' ref from Metadata '/Game/Character/AlienSoldier/TPP_Hero.PackageMetaData'
+[2021.07.05-14.14.37:657][113]LogMetaData: Removing '/Game/Character/AlienSoldier/AlienSoldier.AlienSoldier_C' ref from Metadata '/Game/Character/AlienSoldier/TPP_Hero.PackageMetaData'
+[2021.07.05-14.14.37:657][113]LogMetaData: Removing '/Game/Character/AlienSoldier/AlienSoldier.SKEL_AlienSoldier_C:ReceiveBeginPlay' ref from Metadata '/Game/Character/AlienSoldier/TPP_Hero.PackageMetaData'
+[2021.07.05-14.14.37:657][113]LogMetaData: Removing '/Game/Character/AlienSoldier/AlienSoldier.SKEL_AlienSoldier_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Character/AlienSoldier/TPP_Hero.PackageMetaData'
+[2021.07.05-14.14.37:657][113]LogMetaData: Removing '/Game/Character/AlienSoldier/AlienSoldier.SKEL_AlienSoldier_C:ReceiveTick' ref from Metadata '/Game/Character/AlienSoldier/TPP_Hero.PackageMetaData'
+[2021.07.05-14.14.37:657][113]LogMetaData: Removing '/Game/Character/AlienSoldier/AlienSoldier.SKEL_AlienSoldier_C:UserConstructionScript' ref from Metadata '/Game/Character/AlienSoldier/TPP_Hero.PackageMetaData'
+[2021.07.05-14.14.37:706][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/AlienSoldier/AlienSoldier" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/AlienSoldier.uasset" SILENT=true
+[2021.07.05-14.14.37:713][113]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldierD6F9143448EAE2E7FB2B7AA156841C93.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/AlienSoldier.uasset'
+[2021.07.05-14.14.38:035][113]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.07.05-14.14.38:086][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.07.05-14.14.38:122][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.07.05-14.14.38:129][113]AssetCheck: New page: 에셋 저장:  AlienSoldier
+[2021.07.05-14.14.38:129][113]LogContentValidation: Display: Blueprint /Game/Character/AlienSoldier/AlienSoldier.AlienSoldier 유효성 검사 중
+[2021.07.05-14.14.55:565][593]LogAnimation: Warning: Animation Idle is incompatible with skeleton AlienSoldier_Skeleton, removing animation from actor.
+[2021.07.05-14.14.55:565][593]LogAnimation: Warning: Animation Idle is incompatible with skeleton AlienSoldier_Skeleton, removing animation from actor.
+[2021.07.05-14.14.55:566][593]LogAnimation: Warning: Animation Idle is incompatible with skeleton AlienSoldier_Skeleton, removing animation from actor.
+[2021.07.05-14.14.55:566][593]LogAnimation: Warning: Animation Idle is incompatible with skeleton AlienSoldier_Skeleton, removing animation from actor.
+[2021.07.05-14.15.24:841][627]BlueprintLog: New page: AlienSoldier 컴파일
+[2021.07.05-14.15.24:940][627]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.07.05-14.15.25:027][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/AlienSoldier/AlienSoldier" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/AlienSoldier.uasset" SILENT=true
+[2021.07.05-14.15.25:034][627]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier7353B6354FF64CAA771093ADD4462418.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/AlienSoldier.uasset'
+[2021.07.05-14.15.25:051][627]AssetCheck: New page: 에셋 저장:  AlienSoldier
+[2021.07.05-14.15.25:051][627]LogContentValidation: Display: Blueprint /Game/Character/AlienSoldier/AlienSoldier.AlienSoldier 유효성 검사 중
