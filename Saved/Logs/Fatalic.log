@@ -1600,3 +1600,677 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.07.06-13.38.55:295][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2021.07.06-13.38.55:706][904]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
 [2021.07.06-13.38.55:706][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-13.41.14:663][518]BlueprintLog: New page: AlienSoldier_Animation 컴파일
+[2021.07.06-13.41.14:681][518]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_5
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.14:681][518]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AlienSoldier_Animation_C_5
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.14:730][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.07.06-13.41.14:832][518]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier_Animation489BD41747635FF46A43B69D5E8C894D.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Animation/AlienSoldier_Animation.uasset'
+[2021.07.06-13.41.14:845][518]AssetCheck: New page: 에셋 저장:  AlienSoldier_Animation
+[2021.07.06-13.41.14:845][518]LogContentValidation: Display: AnimBlueprint /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation 유효성 검사 중
+[2021.07.06-13.41.14:846][518]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_5
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.14:876][519]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_5
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.14:892][520]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_5
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.14:900][521]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_5
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.14:911][522]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_5
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.14:922][523]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_5
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.14:932][524]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_5
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.14:941][525]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_5
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.14:951][526]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_5
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.14:959][527]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_5
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.14:968][528]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_5
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.14:977][529]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_5
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.14:987][530]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_5
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.14:995][531]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_5
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.15:513][582]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.07.06-13.41.15:523][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.06-13.41.15:523][582]PIE: New page: PIE 세션: StartLevel (2021. 7. 7. 오전 7:41:15)
+[2021.07.06-13.41.15:523][582]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.06-13.41.15:555][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031528s)
+[2021.07.06-13.41.15:556][582]LogAIModule: Creating AISystem for world StartLevel
+[2021.07.06-13.41.15:556][582]LogPlayLevel: PIE: World Init took: (0.001275s)
+[2021.07.06-13.41.15:556][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.032979s)
+[2021.07.06-13.41.15:587][582]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.07.06-13.41.15:589][582]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.07.06-13.41.15:589][582]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.06-13.41.15:589][582]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.06-13.41.15:589][582]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.06-13.41.15:589][582]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.06-13.41.15:589][582]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.06-13.41.15:589][582]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.06-13.41.15:589][582]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.06-13.41.15:589][582]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.06-13.41.15:590][582]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.06-13.41.15:590][582]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.06-13.41.15:594][582]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.06-13.41.15:594][582]LogAudioMixer: Display: 1: FrontRight
+[2021.07.06-13.41.15:643][582]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.07.06-13.41.15:644][582]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.06-13.41.15:644][582]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.06-13.41.15:644][582]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.06-13.41.15:644][582]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.06-13.41.15:644][582]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.06-13.41.15:646][582]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.06-13.41.15:646][582]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.06-13.41.15:646][582]LogInit: FAudioDevice initialized.
+[2021.07.06-13.41.15:646][582]LogAudio: Display: Audio Device (ID: 7) registered with world 'StartLevel'.
+[2021.07.06-13.41.15:691][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-13.41.15:691][582]LogLoad: Game class is 'GameModeBase'
+[2021.07.06-13.41.15:694][582]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.07.06-22.41.15
+[2021.07.06-13.41.15:695][582]LogWorld: Bringing up level for play took: 0.004164
+[2021.07.06-13.41.15:695][582]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.07.06-13.41.15:697][582]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.06-13.41.15:701][582]PIE: 서버가 로그인했습니다.
+[2021.07.06-13.41.15:703][582]PIE: 에디터에서 플레이 총 시작 시간 0.182초입니다.
+[2021.07.06-13.41.24:603][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-13.41.24:603][ 92]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.06-13.41.24:603][ 92]LogSlate: Window 'Fatalic 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2021.07.06-13.41.24:607][ 92]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-13.41.24:607][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-13.41.24:620][ 92]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.06-13.41.24:665][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-13.41.24:694][ 92]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.06-13.41.24:694][ 92]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-13.41.24:695][ 92]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-13.41.24:708][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.07.06-13.41.24:741][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.07.06-13.41.24:755][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.07.06-13.41.28:523][468]BlueprintLog: New page: AlienSoldier_Animation 컴파일
+[2021.07.06-13.41.28:543][468]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AlienSoldier_Animation_C_6
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.28:543][468]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_6
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.28:575][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.07.06-13.41.28:678][468]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier_AnimationD6FA2BD549F4A4FDBF25BA9F1B673A02.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Animation/AlienSoldier_Animation.uasset'
+[2021.07.06-13.41.28:688][468]AssetCheck: New page: 에셋 저장:  AlienSoldier_Animation
+[2021.07.06-13.41.28:689][468]LogContentValidation: Display: AnimBlueprint /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation 유효성 검사 중
+[2021.07.06-13.41.28:689][468]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_6
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.28:713][469]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_6
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.28:738][470]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_6
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.28:756][471]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_6
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.28:765][472]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_6
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.28:774][473]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_6
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.28:782][474]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_6
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.28:791][475]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_6
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.28:798][476]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_6
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.28:807][477]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_6
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.28:815][478]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_6
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.28:824][479]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_6
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.28:832][480]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_6
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.41.28:842][481]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_6
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.44.21:046][ 38]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Character/AlienSoldier/Animation/AlienSoldier__Move_BS.AlienSoldier__Move_BS
+[2021.07.06-13.44.21:050][ 38]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.06-13.44.21:350][ 38]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.07.06-13.44.38:216][685]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Character/TPP_Hero/TPP_Move_BS.TPP_Move_BS
+[2021.07.06-13.44.38:220][685]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.06-13.44.38:527][685]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.07.06-13.46.04:960][700]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스가 없습니다. ''ContentBrowser.ListViewFolderIcon.Mask' 브러시를 찾을 수 없습니다.'
+[2021.07.06-13.46.04:960][700]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스가 없습니다. ''ContentBrowser.ListViewFolderIcon.Base' 브러시를 찾을 수 없습니다.'
+[2021.07.06-13.46.21:294][426]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/TPP_Hero/BotController.BotController
+[2021.07.06-13.48.04:428][581]LogEditorTransaction: Undo 핀 링크 생성
+[2021.07.06-13.48.04:690][581]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.06-13.48.04:692][581]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.06-13.48.04:692][581]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.06-13.48.05:590][658]LogEditorTransaction: Undo 노드 이동
+[2021.07.06-13.48.05:881][658]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.06-13.48.05:882][658]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.06-13.48.05:883][658]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.06-13.48.06:537][728]LogEditorTransaction: Undo 노드 추가
+[2021.07.06-13.48.06:823][728]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.06-13.48.06:825][728]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.06-13.48.06:825][728]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.07.06-13.48.10:994][198]BlueprintLog: New page: BotController 컴파일
+[2021.07.06-13.48.11:056][198]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.07.06-13.48.11:097][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/TPP_Hero/BotController" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/BotController.uasset" SILENT=true
+[2021.07.06-13.48.11:105][198]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/BotController5500F1CB45F08BC63CE4EEA8392A62C6.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/BotController.uasset'
+[2021.07.06-13.48.11:133][198]AssetCheck: New page: 에셋 저장:  BotController
+[2021.07.06-13.48.11:133][198]LogContentValidation: Display: Blueprint /Game/Character/TPP_Hero/BotController.BotController 유효성 검사 중
+[2021.07.06-13.49.09:827][749]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier__Move_BSE7C4E9EC4432E1E448F8DBAF61837C31.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Animation/AlienSoldier__Move_BS.uasset'
+[2021.07.06-13.49.09:841][749]AssetCheck: New page: 에셋 저장:  AlienSoldier__Move_BS
+[2021.07.06-13.49.09:841][749]LogContentValidation: Display: BlendSpace1D /Game/Character/AlienSoldier/Animation/AlienSoldier__Move_BS.AlienSoldier__Move_BS 유효성 검사 중
+[2021.07.06-13.49.12:525][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/TPP_Hero/TPP_Move_BS" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Move_BS.uasset" SILENT=true
+[2021.07.06-13.49.12:531][989]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/TPP_Move_BS0A4FA74C4151365E9F712A96ED07F92E.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Move_BS.uasset'
+[2021.07.06-13.49.12:544][989]AssetCheck: New page: 에셋 저장:  TPP_Move_BS
+[2021.07.06-13.49.12:544][989]LogContentValidation: Display: BlendSpace1D /Game/Character/TPP_Hero/TPP_Move_BS.TPP_Move_BS 유효성 검사 중
+[2021.07.06-13.49.14:554][149]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.07.06-13.49.14:562][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.06-13.49.14:562][149]PIE: New page: PIE 세션: StartLevel (2021. 7. 7. 오전 7:49:14)
+[2021.07.06-13.49.14:562][149]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.06-13.49.14:592][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029846s)
+[2021.07.06-13.49.14:593][149]LogAIModule: Creating AISystem for world StartLevel
+[2021.07.06-13.49.14:593][149]LogPlayLevel: PIE: World Init took: (0.001619s)
+[2021.07.06-13.49.14:594][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.031656s)
+[2021.07.06-13.49.14:632][149]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.07.06-13.49.14:636][149]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.07.06-13.49.14:636][149]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.06-13.49.14:636][149]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.06-13.49.14:636][149]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.06-13.49.14:636][149]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.06-13.49.14:636][149]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.06-13.49.14:636][149]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.06-13.49.14:636][149]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.06-13.49.14:636][149]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.06-13.49.14:637][149]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.06-13.49.14:637][149]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.06-13.49.14:641][149]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.06-13.49.14:642][149]LogAudioMixer: Display: 1: FrontRight
+[2021.07.06-13.49.14:662][149]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.07.06-13.49.14:662][149]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.06-13.49.14:662][149]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.06-13.49.14:662][149]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.06-13.49.14:663][149]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.06-13.49.14:663][149]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.06-13.49.14:664][149]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.06-13.49.14:665][149]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.06-13.49.14:665][149]LogInit: FAudioDevice initialized.
+[2021.07.06-13.49.14:665][149]LogAudio: Display: Audio Device (ID: 8) registered with world 'StartLevel'.
+[2021.07.06-13.49.14:673][149]LogLoad: Game class is 'GameModeBase'
+[2021.07.06-13.49.14:678][149]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.07.06-22.49.14
+[2021.07.06-13.49.14:679][149]LogWorld: Bringing up level for play took: 0.005235
+[2021.07.06-13.49.14:679][149]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.07.06-13.49.14:683][149]PIE: 서버가 로그인했습니다.
+[2021.07.06-13.49.14:684][149]PIE: 에디터에서 플레이 총 시작 시간 0.125초입니다.
+[2021.07.06-13.49.23:623][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-13.49.23:623][858]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.06-13.49.23:623][858]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-13.49.23:623][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-13.49.23:636][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.06-13.49.23:678][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-13.49.23:708][858]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.06-13.49.23:708][858]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-13.49.23:710][858]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-13.49.23:714][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-13.49.23:721][858]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.07.06-13.49.23:765][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.07.06-13.49.23:818][859]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.07.06-13.49.29:063][309]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier__Move_BS3A82753442B93DA217B321B820579331.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Animation/AlienSoldier__Move_BS.uasset'
+[2021.07.06-13.49.29:078][309]AssetCheck: New page: 에셋 저장:  AlienSoldier__Move_BS
+[2021.07.06-13.49.29:078][309]LogContentValidation: Display: BlendSpace1D /Game/Character/AlienSoldier/Animation/AlienSoldier__Move_BS.AlienSoldier__Move_BS 유효성 검사 중
+[2021.07.06-13.49.34:551][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/TPP_Hero/TPP_Move_BS" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Move_BS.uasset" SILENT=true
+[2021.07.06-13.49.34:556][829]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/TPP_Move_BSBCD779C94BB537C89BB4848C32D6FAAA.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Move_BS.uasset'
+[2021.07.06-13.49.34:572][829]AssetCheck: New page: 에셋 저장:  TPP_Move_BS
+[2021.07.06-13.49.34:572][829]LogContentValidation: Display: BlendSpace1D /Game/Character/TPP_Hero/TPP_Move_BS.TPP_Move_BS 유효성 검사 중
+[2021.07.06-13.49.36:017][930]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.07.06-13.49.36:025][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.06-13.49.36:025][930]PIE: New page: PIE 세션: StartLevel (2021. 7. 7. 오전 7:49:36)
+[2021.07.06-13.49.36:060][930]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.06-13.49.36:089][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028888s)
+[2021.07.06-13.49.36:090][930]LogAIModule: Creating AISystem for world StartLevel
+[2021.07.06-13.49.36:091][930]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2021.07.06-13.49.36:091][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.030375s)
+[2021.07.06-13.49.36:135][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.07.06-13.49.36:138][930]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.07.06-13.49.36:138][930]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.06-13.49.36:138][930]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.06-13.49.36:138][930]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.06-13.49.36:138][930]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.06-13.49.36:138][930]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.06-13.49.36:138][930]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.06-13.49.36:138][930]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.06-13.49.36:138][930]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.06-13.49.36:138][930]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.06-13.49.36:138][930]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.06-13.49.36:142][930]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.06-13.49.36:143][930]LogAudioMixer: Display: 1: FrontRight
+[2021.07.06-13.49.36:168][930]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.07.06-13.49.36:168][930]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.06-13.49.36:168][930]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.06-13.49.36:168][930]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.06-13.49.36:169][930]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.06-13.49.36:169][930]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.06-13.49.36:170][930]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.06-13.49.36:170][930]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.06-13.49.36:170][930]LogInit: FAudioDevice initialized.
+[2021.07.06-13.49.36:170][930]LogAudio: Display: Audio Device (ID: 9) registered with world 'StartLevel'.
+[2021.07.06-13.49.36:187][930]LogLoad: Game class is 'GameModeBase'
+[2021.07.06-13.49.36:190][930]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.07.06-22.49.36
+[2021.07.06-13.49.36:191][930]LogWorld: Bringing up level for play took: 0.004513
+[2021.07.06-13.49.36:192][930]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.07.06-13.49.36:196][930]PIE: 서버가 로그인했습니다.
+[2021.07.06-13.49.36:197][930]PIE: 에디터에서 플레이 총 시작 시간 0.174초입니다.
+[2021.07.06-13.49.58:543][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-13.49.58:543][711]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.06-13.49.58:544][711]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-13.49.58:544][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-13.49.58:557][711]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.06-13.49.58:599][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-13.49.58:625][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-13.49.58:626][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-13.49.58:627][711]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-13.49.58:641][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.07.06-13.49.58:688][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.07.06-13.49.58:741][712]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.07.06-13.50.11:840][899]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier__Move_BS670E9BD94107F15FE92DC6BBAC12B033.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Animation/AlienSoldier__Move_BS.uasset'
+[2021.07.06-13.50.11:857][899]AssetCheck: New page: 에셋 저장:  AlienSoldier__Move_BS
+[2021.07.06-13.50.11:857][899]LogContentValidation: Display: BlendSpace1D /Game/Character/AlienSoldier/Animation/AlienSoldier__Move_BS.AlienSoldier__Move_BS 유효성 검사 중
+[2021.07.06-13.50.13:618][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/TPP_Hero/TPP_Move_BS" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Move_BS.uasset" SILENT=true
+[2021.07.06-13.50.13:623][ 49]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/TPP_Move_BSEFC4AF5D4CE6AD60C9F60EBF7BE4B74A.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/TPP_Hero/TPP_Move_BS.uasset'
+[2021.07.06-13.50.13:640][ 49]AssetCheck: New page: 에셋 저장:  TPP_Move_BS
+[2021.07.06-13.50.13:640][ 49]LogContentValidation: Display: BlendSpace1D /Game/Character/TPP_Hero/TPP_Move_BS.TPP_Move_BS 유효성 검사 중
+[2021.07.06-13.50.59:420][536]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.07.06-13.50.59:427][536]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.06-13.50.59:427][536]PIE: New page: PIE 세션: StartLevel (2021. 7. 7. 오전 7:50:59)
+[2021.07.06-13.50.59:427][536]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.06-13.50.59:456][536]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028309s)
+[2021.07.06-13.50.59:457][536]LogAIModule: Creating AISystem for world StartLevel
+[2021.07.06-13.50.59:457][536]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2021.07.06-13.50.59:457][536]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.029479s)
+[2021.07.06-13.50.59:505][536]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.07.06-13.50.59:507][536]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.07.06-13.50.59:507][536]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.06-13.50.59:507][536]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.06-13.50.59:507][536]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.06-13.50.59:507][536]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.06-13.50.59:507][536]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.06-13.50.59:507][536]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.06-13.50.59:507][536]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.06-13.50.59:507][536]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.06-13.50.59:508][536]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.06-13.50.59:508][536]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.06-13.50.59:512][536]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.06-13.50.59:512][536]LogAudioMixer: Display: 1: FrontRight
+[2021.07.06-13.50.59:537][536]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.07.06-13.50.59:537][536]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.06-13.50.59:537][536]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.06-13.50.59:537][536]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.06-13.50.59:538][536]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.06-13.50.59:538][536]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.06-13.50.59:539][536]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.06-13.50.59:539][536]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.06-13.50.59:539][536]LogInit: FAudioDevice initialized.
+[2021.07.06-13.50.59:539][536]LogAudio: Display: Audio Device (ID: 10) registered with world 'StartLevel'.
+[2021.07.06-13.50.59:553][536]LogLoad: Game class is 'GameModeBase'
+[2021.07.06-13.50.59:557][536]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.07.06-22.50.59
+[2021.07.06-13.50.59:558][536]LogWorld: Bringing up level for play took: 0.004643
+[2021.07.06-13.50.59:558][536]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.07.06-13.50.59:561][536]PIE: 서버가 로그인했습니다.
+[2021.07.06-13.50.59:562][536]PIE: 에디터에서 플레이 총 시작 시간 0.136초입니다.
+[2021.07.06-13.51.27:033][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-13.51.27:033][760]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.06-13.51.27:033][760]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-13.51.27:034][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-13.51.27:052][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.06-13.51.27:095][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-13.51.27:128][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-13.51.27:129][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-13.51.27:130][760]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-13.51.27:136][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.07.06-13.51.27:182][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.07.06-13.51.27:236][761]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.07.06-13.52.01:625][ 80]BlueprintLog: New page: AlienSoldier_Animation 컴파일
+[2021.07.06-13.52.01:645][ 80]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_7
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.52.01:645][ 80]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_11:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.AlienSoldier_Animation_C_7
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.52.01:687][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.07.06-13.52.01:819][ 80]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/AlienSoldier_AnimationE09FD885406438ECAA9DD4AFA613EE80.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/AlienSoldier/Animation/AlienSoldier_Animation.uasset'
+[2021.07.06-13.52.01:837][ 80]AssetCheck: New page: 에셋 저장:  AlienSoldier_Animation
+[2021.07.06-13.52.01:837][ 80]LogContentValidation: Display: AnimBlueprint /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation 유효성 검사 중
+[2021.07.06-13.52.01:838][ 80]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_7
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.52.01:865][ 81]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_7
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.52.01:880][ 82]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_7
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.52.01:900][ 83]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_7
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.52.01:910][ 84]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_7
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.52.01:919][ 85]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_7
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.52.01:929][ 86]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_7
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.52.01:937][ 87]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_7
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.52.01:947][ 88]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_7
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.52.01:957][ 89]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_7
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.52.01:967][ 90]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_7
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.52.01:976][ 91]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_7
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.52.01:987][ 92]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_7
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.52.01:998][ 93]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	AlienSoldier_Animation_C /Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.AlienSoldier_Animation_C_7
+	Function /Game/Character/AlienSoldier/Animation/AlienSoldier_Animation.AlienSoldier_Animation_C:ExecuteUbergraph_AlienSoldier_Animation:0040
+[2021.07.06-13.52.02:621][157]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.07.06-13.52.02:629][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.06-13.52.02:629][157]PIE: New page: PIE 세션: StartLevel (2021. 7. 7. 오전 7:52:02)
+[2021.07.06-13.52.02:629][157]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.06-13.52.02:658][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029086s)
+[2021.07.06-13.52.02:659][157]LogAIModule: Creating AISystem for world StartLevel
+[2021.07.06-13.52.02:659][157]LogPlayLevel: PIE: World Init took: (0.001122s)
+[2021.07.06-13.52.02:660][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.030363s)
+[2021.07.06-13.52.02:695][157]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.07.06-13.52.02:698][157]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.07.06-13.52.02:698][157]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.06-13.52.02:698][157]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.06-13.52.02:698][157]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.06-13.52.02:698][157]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.06-13.52.02:698][157]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.06-13.52.02:698][157]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.06-13.52.02:698][157]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.06-13.52.02:698][157]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.06-13.52.02:698][157]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.06-13.52.02:698][157]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.06-13.52.02:702][157]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.06-13.52.02:702][157]LogAudioMixer: Display: 1: FrontRight
+[2021.07.06-13.52.02:725][157]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.07.06-13.52.02:726][157]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.06-13.52.02:726][157]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.06-13.52.02:726][157]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.06-13.52.02:726][157]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.06-13.52.02:726][157]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.06-13.52.02:729][157]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.06-13.52.02:729][157]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.06-13.52.02:729][157]LogInit: FAudioDevice initialized.
+[2021.07.06-13.52.02:729][157]LogAudio: Display: Audio Device (ID: 11) registered with world 'StartLevel'.
+[2021.07.06-13.52.02:781][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-13.52.02:782][157]LogLoad: Game class is 'GameModeBase'
+[2021.07.06-13.52.02:785][157]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.07.06-22.52.02
+[2021.07.06-13.52.02:786][157]LogWorld: Bringing up level for play took: 0.003821
+[2021.07.06-13.52.02:786][157]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.07.06-13.52.02:788][157]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.07.06-13.52.02:792][157]PIE: 서버가 로그인했습니다.
+[2021.07.06-13.52.02:794][157]PIE: 에디터에서 플레이 총 시작 시간 0.167초입니다.
+[2021.07.06-13.52.11:433][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-13.52.11:433][647]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.06-13.52.11:434][647]LogSlate: Window 'Fatalic 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2021.07.06-13.52.11:437][647]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-13.52.11:437][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-13.52.11:448][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.06-13.52.11:490][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-13.52.11:527][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-13.52.11:529][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-13.52.11:538][647]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.07.06-13.52.11:589][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.07.06-13.52.11:608][648]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.07.06-13.55.22:062][271]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/VolumetricLightmapDensityVolume_16.svg'. File could not be found
+[2021.07.06-13.55.41:476][670]Cmd: DELETE
+[2021.07.06-13.55.41:477][670]Cmd: ACTOR DELETE
+[2021.07.06-13.55.41:484][670]LogEditorActor: Deleted Actor: BlockingVolume
+[2021.07.06-13.55.41:541][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.07.06-13.55.41:546][670]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2021.07.06-13.56.07:631][799]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.07.06-13.57.04:148][511]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.07.06-13.57.20:225][961]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.07.06-13.58.04:379][825]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.07.06-13.58.04:386][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.06-13.58.04:386][825]PIE: New page: PIE 세션: StartLevel (2021. 7. 7. 오전 7:58:04)
+[2021.07.06-13.58.04:411][825]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.06-13.58.04:447][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035240s)
+[2021.07.06-13.58.04:447][825]LogAIModule: Creating AISystem for world StartLevel
+[2021.07.06-13.58.04:448][825]LogPlayLevel: PIE: World Init took: (0.001141s)
+[2021.07.06-13.58.04:448][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.036539s)
+[2021.07.06-13.58.04:486][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.07.06-13.58.04:490][825]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.07.06-13.58.04:490][825]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.06-13.58.04:490][825]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.06-13.58.04:490][825]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.06-13.58.04:490][825]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.06-13.58.04:490][825]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.06-13.58.04:490][825]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.06-13.58.04:490][825]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.06-13.58.04:490][825]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.06-13.58.04:490][825]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.06-13.58.04:491][825]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.06-13.58.04:494][825]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.06-13.58.04:494][825]LogAudioMixer: Display: 1: FrontRight
+[2021.07.06-13.58.04:511][825]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.07.06-13.58.04:511][825]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.06-13.58.04:511][825]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.06-13.58.04:511][825]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.06-13.58.04:512][825]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.06-13.58.04:512][825]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.06-13.58.04:513][825]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.06-13.58.04:513][825]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.06-13.58.04:513][825]LogInit: FAudioDevice initialized.
+[2021.07.06-13.58.04:513][825]LogAudio: Display: Audio Device (ID: 12) registered with world 'StartLevel'.
+[2021.07.06-13.58.04:522][825]LogLoad: Game class is 'GameModeBase'
+[2021.07.06-13.58.04:525][825]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.07.06-22.58.04
+[2021.07.06-13.58.04:526][825]LogWorld: Bringing up level for play took: 0.003896
+[2021.07.06-13.58.04:526][825]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.07.06-13.58.04:529][825]PIE: 서버가 로그인했습니다.
+[2021.07.06-13.58.04:529][825]PIE: 에디터에서 플레이 총 시작 시간 0.145초입니다.
+[2021.07.06-13.58.18:723][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-13.58.18:723][158]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.06-13.58.18:723][158]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-13.58.18:723][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-13.58.18:731][158]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.06-13.58.18:748][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-13.58.18:773][158]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.06-13.58.18:774][158]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-13.58.18:774][158]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-13.58.18:776][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-13.58.18:780][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.07.06-13.58.18:820][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.07.06-13.58.18:849][159]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.07.06-13.58.38:989][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartLevel" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Maps/StartLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.06-13.58.39:029][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.07.06-13.58.39:123][544]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/StartLevelE883D5E7438AE8618F9C94AF27232475.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Maps/StartLevel.umap'
+[2021.07.06-13.58.39:131][544]Message dialog closed, result: Ok, title: 소스 컨트롤에서 체크아웃할 수 없습니다!, text: 다음 애셋을 소스 컨트롤에서 체크아웃 시키지 못했습니다:
+/Game/Maps/StartLevel_BuiltData
+[2021.07.06-13.58.39:131][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartLevel_BuiltData" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Maps/StartLevel_BuiltData.uasset" SILENT=true
+[2021.07.06-13.58.39:189][544]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/StartLevel_BuiltDataD36235764BF029AA96866D8471AE3EC8.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Maps/StartLevel_BuiltData.uasset'
+[2021.07.06-13.58.39:191][544]Message dialog closed, result: Ok, title: 소스 컨트롤에서 체크아웃할 수 없습니다!, text: 다음 애셋을 소스 컨트롤에서 체크아웃 시키지 못했습니다:
+/Game/Maps/StartLevel_BuiltData
+[2021.07.06-13.58.39:212][544]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2021.07.06-13.58.39:212][544]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/StartLevel_BuiltData.StartLevel_BuiltData 유효성 검사 중
+[2021.07.06-13.58.39:213][544]LogContentValidation: Display: World /Game/Maps/StartLevel.StartLevel 유효성 검사 중
+[2021.07.06-13.58.47:255][140]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	FPP_Hero_Animation_C /Engine/Transient.World_30:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FPP_Hero_Animation_C_0
+	Function /Game/Character/FPP_Hero/FPP_Hero_Animation.FPP_Hero_Animation_C:ExecuteUbergraph_FPP_Hero_Animation:0040
+[2021.07.06-13.58.49:894][293]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Character/FPP_Hero/FPP_Hero.FPP_Hero
+[2021.07.06-14.03.19:555][374]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.07.06-14.03.19:562][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.06-14.03.19:562][374]PIE: New page: PIE 세션: StartLevel (2021. 7. 7. 오전 8:03:19)
+[2021.07.06-14.03.19:591][374]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.06-14.03.19:619][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028205s)
+[2021.07.06-14.03.19:620][374]LogAIModule: Creating AISystem for world StartLevel
+[2021.07.06-14.03.19:620][374]LogPlayLevel: PIE: World Init took: (0.001167s)
+[2021.07.06-14.03.19:620][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.029525s)
+[2021.07.06-14.03.19:652][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.07.06-14.03.19:653][374]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.07.06-14.03.19:653][374]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.06-14.03.19:653][374]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.06-14.03.19:653][374]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.06-14.03.19:653][374]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.06-14.03.19:653][374]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.06-14.03.19:653][374]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.06-14.03.19:653][374]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.06-14.03.19:653][374]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.06-14.03.19:654][374]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.06-14.03.19:654][374]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.06-14.03.19:658][374]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.06-14.03.19:658][374]LogAudioMixer: Display: 1: FrontRight
+[2021.07.06-14.03.19:675][374]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.07.06-14.03.19:675][374]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.06-14.03.19:675][374]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.06-14.03.19:675][374]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.06-14.03.19:675][374]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.06-14.03.19:675][374]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.06-14.03.19:676][374]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.06-14.03.19:677][374]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.06-14.03.19:677][374]LogInit: FAudioDevice initialized.
+[2021.07.06-14.03.19:677][374]LogAudio: Display: Audio Device (ID: 13) registered with world 'StartLevel'.
+[2021.07.06-14.03.19:686][374]LogLoad: Game class is 'GameModeBase'
+[2021.07.06-14.03.19:690][374]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.07.06-23.03.19
+[2021.07.06-14.03.19:690][374]LogWorld: Bringing up level for play took: 0.003972
+[2021.07.06-14.03.19:691][374]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2021.07.06-14.03.19:693][374]PIE: 서버가 로그인했습니다.
+[2021.07.06-14.03.19:694][374]PIE: 에디터에서 플레이 총 시작 시간 0.133초입니다.
+[2021.07.06-14.03.37:655][ 99]LogCharacterMovement: FPP_Hero_2 is stuck and failed to move! Velocity: X=-510.97 Y=157.21 Z=0.00 Location: X=349.65 Y=-570.65 Z=290.15 Normal: X=-0.13 Y=-0.99 Z=0.00 PenetrationDepth:0.036 Actor: Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2021.07.06-14.03.43:064][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-14.03.43:064][610]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.06-14.03.43:064][610]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-14.03.43:064][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-14.03.43:074][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.06-14.03.43:091][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-14.03.43:118][610]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.06-14.03.43:119][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-14.03.43:120][610]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-14.03.43:122][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-14.03.43:126][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.07.06-14.03.43:153][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.07.06-14.03.43:186][611]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2021.07.06-14.08.00:340][345]Cmd: DELETE
+[2021.07.06-14.08.00:340][345]Cmd: ACTOR DELETE
+[2021.07.06-14.08.00:347][345]LogEditorActor: Deleted Actor: NavModifierVolume
+[2021.07.06-14.08.00:380][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.07.06-14.08.00:382][345]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2021.07.06-14.08.37:200][210]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.07.06-14.08.43:889][772]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.07.06-14.08.43:896][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.06-14.08.43:896][772]PIE: New page: PIE 세션: StartLevel (2021. 7. 7. 오전 8:08:43)
+[2021.07.06-14.08.43:922][772]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.06-14.08.43:959][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037416s)
+[2021.07.06-14.08.43:960][772]LogAIModule: Creating AISystem for world StartLevel
+[2021.07.06-14.08.43:960][772]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2021.07.06-14.08.43:960][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.038792s)
+[2021.07.06-14.08.43:988][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.07.06-14.08.43:989][772]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.07.06-14.08.43:989][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.06-14.08.43:989][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.06-14.08.43:990][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.06-14.08.43:990][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.06-14.08.43:990][772]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.06-14.08.43:990][772]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.06-14.08.43:990][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.06-14.08.43:990][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.06-14.08.43:990][772]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.06-14.08.43:990][772]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.06-14.08.43:994][772]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.06-14.08.43:994][772]LogAudioMixer: Display: 1: FrontRight
+[2021.07.06-14.08.44:011][772]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.07.06-14.08.44:011][772]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.06-14.08.44:011][772]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.06-14.08.44:011][772]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.06-14.08.44:012][772]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.06-14.08.44:012][772]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.06-14.08.44:013][772]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.06-14.08.44:013][772]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.06-14.08.44:013][772]LogInit: FAudioDevice initialized.
+[2021.07.06-14.08.44:013][772]LogAudio: Display: Audio Device (ID: 14) registered with world 'StartLevel'.
+[2021.07.06-14.08.44:022][772]LogLoad: Game class is 'GameModeBase'
+[2021.07.06-14.08.44:026][772]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.07.06-23.08.44
+[2021.07.06-14.08.44:026][772]LogWorld: Bringing up level for play took: 0.004091
+[2021.07.06-14.08.44:027][772]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2021.07.06-14.08.44:029][772]PIE: 서버가 로그인했습니다.
+[2021.07.06-14.08.44:030][772]PIE: 에디터에서 플레이 총 시작 시간 0.137초입니다.
+[2021.07.06-14.08.44:093][772]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/GameStateBase_16.svg'. File could not be found
+[2021.07.06-14.08.50:410][359]LogCharacterMovement: FPP_Hero_2 is stuck and failed to move! Velocity: X=17.78 Y=-17.28 Z=0.00 Location: X=-58.82 Y=-498.82 Z=300.15 Normal: X=-0.71 Y=-0.71 Z=0.00 PenetrationDepth:0.028 Actor: Component:CollisionCylinder BoneName:None (0 other events since notify)
+[2021.07.06-14.08.59:274][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-14.08.59:274][179]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.07.06-14.08.59:274][179]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-14.08.59:275][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-14.08.59:282][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.06-14.08.59:298][179]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-14.08.59:326][179]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.06-14.08.59:327][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-14.08.59:327][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-14.08.59:330][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-14.08.59:333][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.07.06-14.08.59:363][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.07.06-14.08.59:394][180]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2021.07.06-14.09.01:197][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartLevel" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Maps/StartLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.06-14.09.01:227][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.07.06-14.09.01:311][330]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/StartLevelFF903DC844815D0E565D3392241DFFD5.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Maps/StartLevel.umap'
+[2021.07.06-14.09.01:317][330]Message dialog closed, result: Ok, title: 소스 컨트롤에서 체크아웃할 수 없습니다!, text: 다음 애셋을 소스 컨트롤에서 체크아웃 시키지 못했습니다:
+/Game/Maps/StartLevel_BuiltData
+[2021.07.06-14.09.01:318][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartLevel_BuiltData" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Maps/StartLevel_BuiltData.uasset" SILENT=true
+[2021.07.06-14.09.01:358][330]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/StartLevel_BuiltData6376D2FE4029E250BD42A8A0DE9AA4F3.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Maps/StartLevel_BuiltData.uasset'
+[2021.07.06-14.09.01:359][330]Message dialog closed, result: Ok, title: 소스 컨트롤에서 체크아웃할 수 없습니다!, text: 다음 애셋을 소스 컨트롤에서 체크아웃 시키지 못했습니다:
+/Game/Maps/StartLevel_BuiltData
+[2021.07.06-14.09.01:370][330]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2021.07.06-14.09.01:371][330]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/StartLevel_BuiltData.StartLevel_BuiltData 유효성 검사 중
+[2021.07.06-14.09.01:371][330]LogContentValidation: Display: World /Game/Maps/StartLevel.StartLevel 유효성 검사 중
+[2021.07.06-14.10.37:249][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartLevel" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Maps/StartLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.06-14.10.37:296][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.07.06-14.10.37:384][692]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/StartLevel44C133754C67C1A8E1359AB27ECEBA4B.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Maps/StartLevel.umap'
+[2021.07.06-14.10.37:390][692]Message dialog closed, result: Ok, title: 소스 컨트롤에서 체크아웃할 수 없습니다!, text: 다음 애셋을 소스 컨트롤에서 체크아웃 시키지 못했습니다:
+/Game/Maps/StartLevel_BuiltData
+[2021.07.06-14.10.37:390][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartLevel_BuiltData" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Maps/StartLevel_BuiltData.uasset" SILENT=true
+[2021.07.06-14.10.37:432][692]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/StartLevel_BuiltData3F8CB3A84DF5A1616A5D3788B70D6FFC.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Maps/StartLevel_BuiltData.uasset'
+[2021.07.06-14.10.37:433][692]Message dialog closed, result: Ok, title: 소스 컨트롤에서 체크아웃할 수 없습니다!, text: 다음 애셋을 소스 컨트롤에서 체크아웃 시키지 못했습니다:
+/Game/Maps/StartLevel_BuiltData
+[2021.07.06-14.10.37:447][692]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2021.07.06-14.10.37:447][692]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/StartLevel_BuiltData.StartLevel_BuiltData 유효성 검사 중
+[2021.07.06-14.10.37:447][692]LogContentValidation: Display: World /Game/Maps/StartLevel.StartLevel 유효성 검사 중
