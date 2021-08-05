@@ -2079,3 +2079,1088 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.08.05-10.00.34:372][839]LogContentValidation: Display: World /Game/Maps/StartLevel.StartLevel 유효성 검사 중
 [2021.08.05-10.00.34:372][839]LogContentValidation: Display: AnimSequence /Game/Character/Bryce/Animation/Sequence/Rifle_Run.Rifle_Run 유효성 검사 중
 [2021.08.05-10.00.34:372][839]LogContentValidation: Display: AnimSequence /Game/Character/Bryce/Animation/Sequence/Rifle_Idle.Rifle_Idle 유효성 검사 중
+[2021.08.05-10.08.22:137][778]BlueprintLog: New page: Bryce_Character 컴파일
+[2021.08.05-10.08.22:224][778]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.08.05-10.08.22:359][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Bryce_Character" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Bryce_Character.uasset" SILENT=true
+[2021.08.05-10.08.22:405][778]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_Character095CFC8544785B942E42B8BC729401A9.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Bryce_Character.uasset'
+[2021.08.05-10.08.22:425][778]AssetCheck: New page: 에셋 저장:  Bryce_Character
+[2021.08.05-10.08.22:425][778]LogContentValidation: Display: Blueprint /Game/Character/Bryce/Bryce_Character.Bryce_Character 유효성 검사 중
+[2021.08.05-10.08.45:151][351]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.08.05-10.09.12:021][294]LogSlate: Window '프로젝트 세팅' being destroyed
+[2021.08.05-10.09.12:023][294]LogSlate: Window '프로젝트 세팅' being destroyed
+[2021.08.05-10.09.35:165][776]BlueprintLog: New page: Bryce_Character 컴파일
+[2021.08.05-10.09.35:288][776]LogUObjectHash: Compacting FUObjectHashTables data took   7.96ms
+[2021.08.05-10.09.35:415][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Bryce_Character" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Bryce_Character.uasset" SILENT=true
+[2021.08.05-10.09.35:456][776]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_CharacterD4125EE940BB0ED62234B8947909372F.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Bryce_Character.uasset'
+[2021.08.05-10.09.35:475][776]AssetCheck: New page: 에셋 저장:  Bryce_Character
+[2021.08.05-10.09.35:475][776]LogContentValidation: Display: Blueprint /Game/Character/Bryce/Bryce_Character.Bryce_Character 유효성 검사 중
+[2021.08.05-10.12.04:462][914]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 I:\Unreal Project\Fatalic 5.0\Asset\Animation\Jump Down.fbx)
+[2021.08.05-10.12.04:475][914]LogFbx: Loading FBX Scene from I:\Unreal Project\Fatalic 5.0\Asset\Animation\Jump Down.fbx
+[2021.08.05-10.12.04:496][914]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.05-10.12.07:998][914]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(0) Hips
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(1) Spine
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(2) Spine1
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(3) Spine2
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(4) Neck
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(5) Head
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.05-10.12.08:017][914]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(32) RightArm
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(34) RightHand
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.05-10.12.08:018][914]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.05-10.12.08:020][914]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.05-10.12.11:170][914]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Bryce/Animation/Sequence/Jump_Down.Jump_Down
+[2021.08.05-10.12.11:295][914]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 I:\Unreal Project\Fatalic 5.0\Asset\Animation\Jump Loop.fbx)
+[2021.08.05-10.12.11:304][914]LogFbx: Loading FBX Scene from I:\Unreal Project\Fatalic 5.0\Asset\Animation\Jump Loop.fbx
+[2021.08.05-10.12.11:346][914]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(0) Hips
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(1) Spine
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(2) Spine1
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(3) Spine2
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(4) Neck
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(5) Head
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.05-10.12.11:348][914]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(32) RightArm
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(34) RightHand
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.05-10.12.11:349][914]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.05-10.12.11:350][914]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.05-10.12.11:605][914]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 I:\Unreal Project\Fatalic 5.0\Asset\Animation\Jump Up.fbx)
+[2021.08.05-10.12.11:620][914]LogFbx: Loading FBX Scene from I:\Unreal Project\Fatalic 5.0\Asset\Animation\Jump Up.fbx
+[2021.08.05-10.12.11:671][914]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Bryce/Animation/Sequence/Jump_Loop.Jump_Loop
+[2021.08.05-10.12.11:671][914]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(0) Hips
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(1) Spine
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(2) Spine1
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(3) Spine2
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(4) Neck
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(5) Head
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.05-10.12.11:673][914]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(32) RightArm
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(34) RightHand
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.05-10.12.11:674][914]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.05-10.12.11:675][914]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.05-10.12.12:055][914]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(668)].
+[2021.08.05-10.12.12:593][938]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Bryce/Animation/Sequence/Jump_Up.Jump_Up
+[2021.08.05-10.16.22:176][868]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.05-10.17.34:766][844]BlueprintLog: New page: Bryce_Animation 컴파일
+[2021.08.05-10.17.34:769][844]LogBlueprint: Warning: [AssetLog] I:\Unreal Project\Fatalic 5.0\Content\Character\Bryce\Animation\Bryce_Animation.uasset: [Compiler] Ground -> Jump Loop  will never be taken, please connect something to  Can Enter Transition
+[2021.08.05-10.17.34:791][844]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_5
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-10.17.34:791][844]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_5
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-10.17.34:832][844]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2021.08.05-10.17.34:887][846]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_5
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-10.17.34:909][847]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_5
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-10.17.34:916][848]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_5
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-10.17.34:925][849]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_5
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-10.17.34:933][850]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_5
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-10.17.34:941][851]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_5
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-10.17.34:949][852]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_5
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-10.17.34:958][853]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_5
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-10.17.34:966][854]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_5
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-10.17.34:974][855]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_5
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-10.17.34:983][856]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_5
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-10.17.34:991][857]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_5
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-10.17.34:999][858]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_5
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-10.17.35:008][859]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_5
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-10.18.01:284][850]BlueprintLog: New page: Bryce_Animation 컴파일
+[2021.08.05-10.18.01:288][850]LogBlueprint: Warning: [AssetLog] I:\Unreal Project\Fatalic 5.0\Content\Character\Bryce\Animation\Bryce_Animation.uasset: [Compiler] Ground -> Jump Loop  will never be taken, please connect something to  Can Enter Transition
+[2021.08.05-10.18.01:306][850]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_6
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.18.01:306][850]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_6
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.18.01:306][850]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_6
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.18.01:306][850]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_6
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.18.01:306][850]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_6
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.18.01:306][850]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_6
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.18.01:359][850]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.08.05-10.18.01:366][850]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_6
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.18.01:366][850]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_6
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.18.01:366][850]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_6
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.18.01:386][851]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_6
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.18.01:386][851]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_6
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.18.01:386][851]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_6
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.18.01:406][852]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_6
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.18.01:406][852]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_6
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.18.01:406][852]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_6
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.18.01:421][853]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_6
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.18.13:398][243]BlueprintLog: New page: Bryce_Animation 컴파일
+[2021.08.05-10.18.13:420][243]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_7
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.18.13:420][243]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_7
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.18.13:420][243]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_7
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.18.13:420][243]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_7
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.18.13:420][243]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_7
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.18.13:420][243]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_7
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.18.13:463][243]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2021.08.05-10.18.13:547][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Animation/Bryce_Animation" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset" SILENT=true
+[2021.08.05-10.18.13:564][243]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_Animation9B1161244395F811E217E5AC3BC0DBEC.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset'
+[2021.08.05-10.18.13:583][243]AssetCheck: New page: 에셋 저장:  Bryce_Animation
+[2021.08.05-10.18.13:583][243]LogContentValidation: Display: AnimBlueprint /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation 유효성 검사 중
+[2021.08.05-10.18.13:584][243]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_7
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.18.13:584][243]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_7
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.18.13:584][243]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_7
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.18.13:598][244]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_7
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.18.13:598][244]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_7
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.18.13:598][244]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_7
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.18.13:609][245]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_7
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.18.13:609][245]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_7
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.18.13:609][245]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_7
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.18.13:618][246]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_7
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.18.16:702][301]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.08.05-10.18.16:713][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.05-10.18.16:714][301]PIE: New page: PIE 세션: StartLevel (2021. 8. 6. 오전 4:18:16)
+[2021.08.05-10.18.16:714][301]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-10.18.16:750][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036109s)
+[2021.08.05-10.18.16:751][301]LogAIModule: Creating AISystem for world StartLevel
+[2021.08.05-10.18.16:751][301]LogPlayLevel: PIE: World Init took: (0.001408s)
+[2021.08.05-10.18.16:752][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.037711s)
+[2021.08.05-10.18.16:801][301]LogUObjectHash: Compacting FUObjectHashTables data took   5.38ms
+[2021.08.05-10.18.16:803][301]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.08.05-10.18.16:803][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.05-10.18.16:804][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.05-10.18.16:804][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.05-10.18.16:804][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.05-10.18.16:804][301]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.05-10.18.16:804][301]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.05-10.18.16:804][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.05-10.18.16:804][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.05-10.18.16:804][301]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.05-10.18.16:805][301]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.05-10.18.16:809][301]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.05-10.18.16:809][301]LogAudioMixer: Display: 1: FrontRight
+[2021.08.05-10.18.16:846][301]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.08.05-10.18.16:846][301]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.05-10.18.16:846][301]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.05-10.18.16:846][301]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.05-10.18.16:847][301]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.05-10.18.16:847][301]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.05-10.18.16:848][301]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.05-10.18.16:848][301]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.05-10.18.16:848][301]LogInit: FAudioDevice initialized.
+[2021.08.05-10.18.16:848][301]LogAudio: Display: Audio Device (ID: 7) registered with world 'StartLevel'.
+[2021.08.05-10.18.16:877][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-10.18.16:878][301]LogLoad: Game class is 'TPS_GameMode_C'
+[2021.08.05-10.18.16:881][301]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.08.05-19.18.16
+[2021.08.05-10.18.16:882][301]LogWorld: Bringing up level for play took: 0.003985
+[2021.08.05-10.18.16:882][301]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.08.05-10.18.16:889][301]PIE: 서버가 로그인했습니다.
+[2021.08.05-10.18.16:892][301]PIE: 에디터에서 플레이 총 시작 시간 0.18초입니다.
+[2021.08.05-10.18.20:193][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-10.18.20:194][468]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-10.18.20:194][468]LogSlate: Window 'Fatalic 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2021.08.05-10.18.20:198][468]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-10.18.20:198][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-10.18.20:205][468]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.05-10.18.20:216][468]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-10.18.20:270][468]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.05-10.18.20:270][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-10.18.20:271][468]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-10.18.20:296][468]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2021.08.05-10.18.20:344][468]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.08.05-10.18.20:366][469]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.08.05-10.18.22:995][734]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스가 없습니다. ''Graph.Node.Comment.TextColor' 컬러를 찾을 수 없습니다.'
+[2021.08.05-10.18.48:053][175]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.08.05-10.18.48:064][175]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2021.08.05-10.18.48:065][175]LogPlayLevel: [PlayLevel] Compiling Bryce_Animation before play...
+[2021.08.05-10.18.48:088][175]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_8
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.18.48:088][175]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_8
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.18.48:088][175]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_8
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.18.48:088][175]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_8
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.18.48:088][175]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_8
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.18.48:088][175]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_8
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.18.48:165][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Animation/Bryce_Animation" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset" SILENT=true
+[2021.08.05-10.18.48:188][175]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_Animation676E5A0747B5E586D9EA7988F62EBD5D.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset'
+[2021.08.05-10.18.48:256][175]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2021.08.05-10.18.48:260][175]LogPlayLevel: PlayLevel: Blueprint regeneration took 196 ms (1 blueprints)
+[2021.08.05-10.18.48:260][175]PIE: New page: PIE 세션: StartLevel (2021. 8. 6. 오전 4:18:48)
+[2021.08.05-10.18.48:260][175]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-10.18.48:294][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033163s)
+[2021.08.05-10.18.48:295][175]LogAIModule: Creating AISystem for world StartLevel
+[2021.08.05-10.18.48:295][175]LogPlayLevel: PIE: World Init took: (0.001457s)
+[2021.08.05-10.18.48:295][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.034804s)
+[2021.08.05-10.18.48:346][175]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.08.05-10.18.48:346][175]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.08.05-10.18.48:346][175]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.05-10.18.48:346][175]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.05-10.18.48:346][175]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.05-10.18.48:346][175]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.05-10.18.48:346][175]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.05-10.18.48:346][175]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.05-10.18.48:346][175]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.05-10.18.48:346][175]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.05-10.18.48:347][175]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.05-10.18.48:347][175]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.05-10.18.48:350][175]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.05-10.18.48:351][175]LogAudioMixer: Display: 1: FrontRight
+[2021.08.05-10.18.48:370][175]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.08.05-10.18.48:370][175]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.05-10.18.48:371][175]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.05-10.18.48:371][175]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.05-10.18.48:371][175]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.05-10.18.48:371][175]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.05-10.18.48:373][175]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.05-10.18.48:373][175]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.05-10.18.48:373][175]LogInit: FAudioDevice initialized.
+[2021.08.05-10.18.48:373][175]LogAudio: Display: Audio Device (ID: 8) registered with world 'StartLevel'.
+[2021.08.05-10.18.48:426][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-10.18.48:426][175]LogLoad: Game class is 'TPS_GameMode_C'
+[2021.08.05-10.18.48:430][175]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.08.05-19.18.48
+[2021.08.05-10.18.48:430][175]LogWorld: Bringing up level for play took: 0.004001
+[2021.08.05-10.18.48:431][175]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.08.05-10.18.48:438][175]PIE: 서버가 로그인했습니다.
+[2021.08.05-10.18.48:440][175]PIE: 에디터에서 플레이 총 시작 시간 0.377초입니다.
+[2021.08.05-10.18.48:619][176]AssetCheck: New page: 에셋 저장:  Bryce_Animation
+[2021.08.05-10.18.48:619][176]LogContentValidation: Display: AnimBlueprint /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation 유효성 검사 중
+[2021.08.05-10.18.48:651][177]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_8
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.18.48:651][177]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_8
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.18.48:651][177]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_8
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.18.48:665][178]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_8
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.18.48:665][178]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_8
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.18.48:665][178]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_8
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.18.48:679][179]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_8
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.18.48:679][179]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_8
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.18.48:679][179]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_8
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.18.48:696][180]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_8
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.18.51:494][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-10.18.51:494][345]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-10.18.51:495][345]LogSlate: Window 'Fatalic 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2021.08.05-10.18.51:498][345]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-10.18.51:499][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-10.18.51:513][345]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.05-10.18.51:521][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-10.18.51:566][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-10.18.51:567][345]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-10.18.51:584][345]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.08.05-10.18.51:653][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.08.05-10.18.51:675][346]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.08.05-10.19.27:309][854]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.08.05-10.19.27:319][854]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2021.08.05-10.19.27:320][854]LogPlayLevel: [PlayLevel] Compiling Bryce_Animation before play...
+[2021.08.05-10.19.27:354][854]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_9
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.19.27:354][854]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_9
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.19.27:354][854]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_9
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.19.27:354][854]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_9
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.19.27:354][854]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_9
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.19.27:354][854]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_9
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.19.27:436][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Animation/Bryce_Animation" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset" SILENT=true
+[2021.08.05-10.19.27:459][854]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_AnimationA7A181A24C5F56183C15049B47118806.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset'
+[2021.08.05-10.19.27:530][854]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2021.08.05-10.19.27:533][854]LogPlayLevel: PlayLevel: Blueprint regeneration took 214 ms (1 blueprints)
+[2021.08.05-10.19.27:533][854]PIE: New page: PIE 세션: StartLevel (2021. 8. 6. 오전 4:19:27)
+[2021.08.05-10.19.27:533][854]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-10.19.27:568][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034562s)
+[2021.08.05-10.19.27:569][854]LogAIModule: Creating AISystem for world StartLevel
+[2021.08.05-10.19.27:569][854]LogPlayLevel: PIE: World Init took: (0.001229s)
+[2021.08.05-10.19.27:569][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.035951s)
+[2021.08.05-10.19.27:616][854]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.08.05-10.19.27:617][854]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.08.05-10.19.27:617][854]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.05-10.19.27:617][854]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.05-10.19.27:617][854]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.05-10.19.27:617][854]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.05-10.19.27:617][854]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.05-10.19.27:617][854]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.05-10.19.27:617][854]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.05-10.19.27:617][854]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.05-10.19.27:618][854]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.05-10.19.27:618][854]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.05-10.19.27:622][854]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.05-10.19.27:622][854]LogAudioMixer: Display: 1: FrontRight
+[2021.08.05-10.19.27:684][854]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.08.05-10.19.27:684][854]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.05-10.19.27:684][854]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.05-10.19.27:684][854]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.05-10.19.27:685][854]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.05-10.19.27:685][854]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.05-10.19.27:686][854]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.05-10.19.27:686][854]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.05-10.19.27:686][854]LogInit: FAudioDevice initialized.
+[2021.08.05-10.19.27:686][854]LogAudio: Display: Audio Device (ID: 9) registered with world 'StartLevel'.
+[2021.08.05-10.19.27:726][854]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-10.19.27:726][854]LogLoad: Game class is 'TPS_GameMode_C'
+[2021.08.05-10.19.27:730][854]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.08.05-19.19.27
+[2021.08.05-10.19.27:730][854]LogWorld: Bringing up level for play took: 0.003867
+[2021.08.05-10.19.27:731][854]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.08.05-10.19.27:738][854]PIE: 서버가 로그인했습니다.
+[2021.08.05-10.19.27:740][854]PIE: 에디터에서 플레이 총 시작 시간 0.423초입니다.
+[2021.08.05-10.19.27:915][855]AssetCheck: New page: 에셋 저장:  Bryce_Animation
+[2021.08.05-10.19.27:915][855]LogContentValidation: Display: AnimBlueprint /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation 유효성 검사 중
+[2021.08.05-10.19.27:944][856]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_9
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.19.27:944][856]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_9
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.19.27:944][856]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_9
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.19.27:960][857]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_9
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.19.27:960][857]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_9
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.19.27:960][857]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_9
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.19.27:978][858]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_9
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.19.27:978][858]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_9
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.19.27:978][858]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_9
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.19.27:992][859]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_9
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.19.30:594][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-10.19.30:594][ 10]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-10.19.30:594][ 10]LogSlate: Window 'Fatalic 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2021.08.05-10.19.30:598][ 10]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-10.19.30:598][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-10.19.30:619][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.05-10.19.30:628][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-10.19.30:674][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-10.19.30:675][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-10.19.30:700][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2021.08.05-10.19.30:780][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2021.08.05-10.19.30:800][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.08.05-10.20.51:010][162]BlueprintLog: New page: Bryce_Animation 컴파일
+[2021.08.05-10.20.51:035][162]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_10
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.20.51:035][162]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_10
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.20.51:035][162]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_10
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.20.51:035][162]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_10
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.20.51:035][162]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_10
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.20.51:035][162]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_10
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.20.51:070][162]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.08.05-10.20.51:130][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Animation/Bryce_Animation" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset" SILENT=true
+[2021.08.05-10.20.51:150][162]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_AnimationD9F4EC7A41D355BF266038A33C219ACB.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset'
+[2021.08.05-10.20.51:166][162]AssetCheck: New page: 에셋 저장:  Bryce_Animation
+[2021.08.05-10.20.51:166][162]LogContentValidation: Display: AnimBlueprint /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation 유효성 검사 중
+[2021.08.05-10.20.51:166][162]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_10
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.20.51:167][162]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_10
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.20.51:167][162]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_10
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.20.51:179][163]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_10
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.20.51:179][163]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_10
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.20.51:179][163]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_10
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.20.51:189][164]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_10
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.20.51:189][164]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_10
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.20.51:189][164]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_10
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.20.51:197][165]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_10
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.20.56:764][562]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.08.05-10.20.56:776][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.05-10.20.56:776][562]PIE: New page: PIE 세션: StartLevel (2021. 8. 6. 오전 4:20:56)
+[2021.08.05-10.20.56:776][562]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-10.20.56:812][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035493s)
+[2021.08.05-10.20.56:813][562]LogAIModule: Creating AISystem for world StartLevel
+[2021.08.05-10.20.56:814][562]LogPlayLevel: PIE: World Init took: (0.001490s)
+[2021.08.05-10.20.56:814][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.037188s)
+[2021.08.05-10.20.56:867][562]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2021.08.05-10.20.56:869][562]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.08.05-10.20.56:869][562]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.05-10.20.56:869][562]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.05-10.20.56:869][562]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.05-10.20.56:869][562]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.05-10.20.56:869][562]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.05-10.20.56:869][562]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.05-10.20.56:869][562]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.05-10.20.56:869][562]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.05-10.20.56:869][562]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.05-10.20.56:869][562]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.05-10.20.56:874][562]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.05-10.20.56:874][562]LogAudioMixer: Display: 1: FrontRight
+[2021.08.05-10.20.56:897][562]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.08.05-10.20.56:897][562]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.05-10.20.56:897][562]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.05-10.20.56:897][562]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.05-10.20.56:898][562]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.05-10.20.56:898][562]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.05-10.20.56:899][562]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.05-10.20.56:899][562]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.05-10.20.56:899][562]LogInit: FAudioDevice initialized.
+[2021.08.05-10.20.56:899][562]LogAudio: Display: Audio Device (ID: 10) registered with world 'StartLevel'.
+[2021.08.05-10.20.56:928][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-10.20.56:928][562]LogLoad: Game class is 'TPS_GameMode_C'
+[2021.08.05-10.20.56:932][562]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.08.05-19.20.56
+[2021.08.05-10.20.56:932][562]LogWorld: Bringing up level for play took: 0.004013
+[2021.08.05-10.20.56:933][562]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.08.05-10.20.56:939][562]PIE: 서버가 로그인했습니다.
+[2021.08.05-10.20.56:942][562]PIE: 에디터에서 플레이 총 시작 시간 0.168초입니다.
+[2021.08.05-10.21.26:214][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-10.21.26:214][280]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-10.21.26:215][280]LogSlate: Window 'Fatalic 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2021.08.05-10.21.26:218][280]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-10.21.26:219][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-10.21.26:229][280]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.05-10.21.26:238][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-10.21.26:284][280]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.05-10.21.26:284][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-10.21.26:285][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-10.21.26:300][280]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2021.08.05-10.21.26:382][280]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2021.08.05-10.21.26:407][281]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.08.05-10.25.50:252][  1]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.08.05-10.25.50:264][  1]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2021.08.05-10.25.50:265][  1]LogPlayLevel: [PlayLevel] Compiling Bryce_Animation before play...
+[2021.08.05-10.25.50:301][  1]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_11
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.25.50:301][  1]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_11
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.25.50:301][  1]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_11
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.25.50:301][  1]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_11
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.25.50:301][  1]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_11
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.25.50:301][  1]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_11
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.25.50:398][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Animation/Bryce_Animation" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset" SILENT=true
+[2021.08.05-10.25.50:431][  1]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_AnimationC55F9B5843D7459C5FC471965AAFCCDA.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset'
+[2021.08.05-10.25.50:513][  1]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2021.08.05-10.25.50:516][  1]LogPlayLevel: PlayLevel: Blueprint regeneration took 252 ms (1 blueprints)
+[2021.08.05-10.25.50:517][  1]PIE: New page: PIE 세션: StartLevel (2021. 8. 6. 오전 4:25:50)
+[2021.08.05-10.25.50:517][  1]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-10.25.50:551][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034069s)
+[2021.08.05-10.25.50:552][  1]LogAIModule: Creating AISystem for world StartLevel
+[2021.08.05-10.25.50:553][  1]LogPlayLevel: PIE: World Init took: (0.001520s)
+[2021.08.05-10.25.50:553][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.035769s)
+[2021.08.05-10.25.50:611][  1]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2021.08.05-10.25.50:612][  1]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.08.05-10.25.50:612][  1]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.05-10.25.50:612][  1]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.05-10.25.50:612][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.05-10.25.50:612][  1]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.05-10.25.50:612][  1]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.05-10.25.50:612][  1]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.05-10.25.50:612][  1]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.05-10.25.50:612][  1]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.05-10.25.50:612][  1]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.05-10.25.50:612][  1]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.05-10.25.50:617][  1]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.05-10.25.50:617][  1]LogAudioMixer: Display: 1: FrontRight
+[2021.08.05-10.25.50:638][  1]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.08.05-10.25.50:639][  1]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.05-10.25.50:639][  1]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.05-10.25.50:639][  1]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.05-10.25.50:639][  1]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.05-10.25.50:639][  1]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.05-10.25.50:641][  1]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.05-10.25.50:641][  1]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.05-10.25.50:641][  1]LogInit: FAudioDevice initialized.
+[2021.08.05-10.25.50:641][  1]LogAudio: Display: Audio Device (ID: 11) registered with world 'StartLevel'.
+[2021.08.05-10.25.50:699][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-10.25.50:699][  1]LogLoad: Game class is 'TPS_GameMode_C'
+[2021.08.05-10.25.50:702][  1]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.08.05-19.25.50
+[2021.08.05-10.25.50:703][  1]LogWorld: Bringing up level for play took: 0.003943
+[2021.08.05-10.25.50:704][  1]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.08.05-10.25.50:711][  1]PIE: 서버가 로그인했습니다.
+[2021.08.05-10.25.50:713][  1]PIE: 에디터에서 플레이 총 시작 시간 0.452초입니다.
+[2021.08.05-10.25.50:910][  2]AssetCheck: New page: 에셋 저장:  Bryce_Animation
+[2021.08.05-10.25.50:910][  2]LogContentValidation: Display: AnimBlueprint /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation 유효성 검사 중
+[2021.08.05-10.25.50:939][  3]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_11
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.25.50:939][  3]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_11
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.25.50:939][  3]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_11
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.25.50:955][  4]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_11
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.25.50:955][  4]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_11
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.25.50:955][  4]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_11
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.25.50:972][  5]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_11
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.25.50:972][  5]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_11
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.25.50:972][  5]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_11
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.25.50:986][  6]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_11
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.26.20:494][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-10.26.20:494][737]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-10.26.20:495][737]LogSlate: Window 'Fatalic 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2021.08.05-10.26.20:499][737]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-10.26.20:499][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-10.26.20:533][737]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.05-10.26.20:543][737]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-10.26.20:593][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-10.26.20:594][737]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-10.26.20:624][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.08.05-10.26.20:680][737]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.08.05-10.26.20:705][738]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.08.05-10.26.57:180][168]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.08.05-10.26.57:189][168]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2021.08.05-10.26.57:190][168]LogPlayLevel: [PlayLevel] Compiling Bryce_Animation before play...
+[2021.08.05-10.26.57:220][168]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_12
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.26.57:220][168]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_12
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.26.57:220][168]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_12
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.26.57:220][168]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_12
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.26.57:220][168]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_12
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.26.57:220][168]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_12
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.26.57:320][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Animation/Bryce_Animation" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset" SILENT=true
+[2021.08.05-10.26.57:351][168]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_AnimationA82886AF4A2967D89BA07DA19160FADD.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset'
+[2021.08.05-10.26.57:402][168]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2021.08.05-10.26.57:405][168]LogPlayLevel: PlayLevel: Blueprint regeneration took 217 ms (1 blueprints)
+[2021.08.05-10.26.57:406][168]PIE: New page: PIE 세션: StartLevel (2021. 8. 6. 오전 4:26:57)
+[2021.08.05-10.26.57:406][168]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-10.26.57:438][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032646s)
+[2021.08.05-10.26.57:439][168]LogAIModule: Creating AISystem for world StartLevel
+[2021.08.05-10.26.57:439][168]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2021.08.05-10.26.57:439][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.034068s)
+[2021.08.05-10.26.57:497][168]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2021.08.05-10.26.57:498][168]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.08.05-10.26.57:498][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.05-10.26.57:498][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.05-10.26.57:498][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.05-10.26.57:498][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.05-10.26.57:498][168]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.05-10.26.57:498][168]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.05-10.26.57:498][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.05-10.26.57:498][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.05-10.26.57:499][168]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.05-10.26.57:499][168]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.05-10.26.57:503][168]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.05-10.26.57:503][168]LogAudioMixer: Display: 1: FrontRight
+[2021.08.05-10.26.57:526][168]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.08.05-10.26.57:526][168]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.05-10.26.57:526][168]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.05-10.26.57:526][168]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.05-10.26.57:527][168]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.05-10.26.57:527][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.05-10.26.57:529][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.05-10.26.57:529][168]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.05-10.26.57:529][168]LogInit: FAudioDevice initialized.
+[2021.08.05-10.26.57:529][168]LogAudio: Display: Audio Device (ID: 12) registered with world 'StartLevel'.
+[2021.08.05-10.26.57:585][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-10.26.57:585][168]LogLoad: Game class is 'TPS_GameMode_C'
+[2021.08.05-10.26.57:588][168]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.08.05-19.26.57
+[2021.08.05-10.26.57:589][168]LogWorld: Bringing up level for play took: 0.003647
+[2021.08.05-10.26.57:589][168]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.08.05-10.26.57:596][168]PIE: 서버가 로그인했습니다.
+[2021.08.05-10.26.57:598][168]PIE: 에디터에서 플레이 총 시작 시간 0.411초입니다.
+[2021.08.05-10.26.57:789][169]AssetCheck: New page: 에셋 저장:  Bryce_Animation
+[2021.08.05-10.26.57:789][169]LogContentValidation: Display: AnimBlueprint /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation 유효성 검사 중
+[2021.08.05-10.26.57:816][170]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_12
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.26.57:816][170]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_12
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.26.57:816][170]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_12
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.26.57:833][171]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_12
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.26.57:833][171]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_12
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.26.57:833][171]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_12
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.26.57:852][172]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_12
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.26.57:852][172]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_12
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.26.57:852][172]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_12
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.26.57:870][173]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_12
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.27.15:623][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-10.27.15:623][191]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-10.27.15:624][191]LogSlate: Window 'Fatalic 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2021.08.05-10.27.15:628][191]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-10.27.15:628][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-10.27.15:646][191]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.05-10.27.15:653][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-10.27.15:704][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-10.27.15:705][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-10.27.15:721][191]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2021.08.05-10.27.15:775][191]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2021.08.05-10.27.15:803][192]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.08.05-10.27.28:301][415]BlueprintLog: New page: Bryce_Animation 컴파일
+[2021.08.05-10.27.28:333][415]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_13
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.27.28:333][415]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_13
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.27.28:333][415]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_13
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.27.28:333][415]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_13
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.27.28:333][415]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_13
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.27.28:333][415]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_13
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.27.28:375][415]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2021.08.05-10.27.28:470][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Animation/Bryce_Animation" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset" SILENT=true
+[2021.08.05-10.27.28:500][415]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_Animation581BEBB3463B77A5E03BD7AC05F51FEB.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset'
+[2021.08.05-10.27.28:519][415]AssetCheck: New page: 에셋 저장:  Bryce_Animation
+[2021.08.05-10.27.28:519][415]LogContentValidation: Display: AnimBlueprint /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation 유효성 검사 중
+[2021.08.05-10.27.28:520][415]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_13
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.27.28:520][415]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_13
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.27.28:520][415]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_13
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.27.28:549][416]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_13
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.27.28:549][416]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_13
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.27.28:549][416]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_13
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.27.28:566][417]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_13
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.27.28:566][417]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_13
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0036
+[2021.08.05-10.27.28:566][417]LogScript: Warning: CallFunc_GetMovementComponent_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_13
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0064
+[2021.08.05-10.27.28:575][418]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_13
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:00CC
+[2021.08.05-10.27.29:413][498]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.08.05-10.27.29:421][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.05-10.27.29:422][498]PIE: New page: PIE 세션: StartLevel (2021. 8. 6. 오전 4:27:29)
+[2021.08.05-10.27.29:422][498]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-10.27.29:458][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036306s)
+[2021.08.05-10.27.29:459][498]LogAIModule: Creating AISystem for world StartLevel
+[2021.08.05-10.27.29:459][498]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2021.08.05-10.27.29:459][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.037556s)
+[2021.08.05-10.27.29:525][498]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2021.08.05-10.27.29:526][498]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.08.05-10.27.29:526][498]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.05-10.27.29:526][498]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.05-10.27.29:526][498]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.05-10.27.29:526][498]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.05-10.27.29:526][498]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.05-10.27.29:526][498]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.05-10.27.29:526][498]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.05-10.27.29:526][498]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.05-10.27.29:527][498]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.05-10.27.29:527][498]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.05-10.27.29:531][498]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.05-10.27.29:531][498]LogAudioMixer: Display: 1: FrontRight
+[2021.08.05-10.27.29:552][498]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.08.05-10.27.29:552][498]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.05-10.27.29:552][498]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.05-10.27.29:552][498]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.05-10.27.29:553][498]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.05-10.27.29:553][498]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.05-10.27.29:554][498]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.05-10.27.29:554][498]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.05-10.27.29:554][498]LogInit: FAudioDevice initialized.
+[2021.08.05-10.27.29:554][498]LogAudio: Display: Audio Device (ID: 13) registered with world 'StartLevel'.
+[2021.08.05-10.27.29:599][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-10.27.29:599][498]LogLoad: Game class is 'TPS_GameMode_C'
+[2021.08.05-10.27.29:602][498]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.08.05-19.27.29
+[2021.08.05-10.27.29:603][498]LogWorld: Bringing up level for play took: 0.003644
+[2021.08.05-10.27.29:603][498]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.08.05-10.27.29:610][498]PIE: 서버가 로그인했습니다.
+[2021.08.05-10.27.29:611][498]PIE: 에디터에서 플레이 총 시작 시간 0.192초입니다.
+[2021.08.05-10.28.00:363][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-10.28.00:363][288]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-10.28.00:364][288]LogSlate: Window 'Fatalic 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2021.08.05-10.28.00:368][288]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-10.28.00:368][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-10.28.00:394][288]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.05-10.28.00:404][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-10.28.00:482][288]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.05-10.28.00:483][288]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-10.28.00:484][288]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-10.28.00:494][288]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.08.05-10.28.00:553][288]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.08.05-10.28.00:584][289]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.08.05-10.28.35:815][735]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.08.05-10.28.36:740][735]LogSlate: Window '콘텐츠 저장' being destroyed
+[2021.08.05-10.28.36:824][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Animation/Sequence/Jump_Down" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Sequence/Jump_Down.uasset" SILENT=true
+[2021.08.05-10.28.36:919][735]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Jump_DownBCC881F041F3BE918C2CB78583FFF385.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Sequence/Jump_Down.uasset'
+[2021.08.05-10.28.36:936][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Animation/Sequence/Jump_Loop" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Sequence/Jump_Loop.uasset" SILENT=true
+[2021.08.05-10.28.36:950][735]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Jump_Loop4B99C8304D14EEFE5A891EBC61B03E92.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Sequence/Jump_Loop.uasset'
+[2021.08.05-10.28.36:965][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Animation/Sequence/Jump_Up" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Sequence/Jump_Up.uasset" SILENT=true
+[2021.08.05-10.28.36:980][735]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Jump_UpAAD0661240C977DE23733D8008BD01AC.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Sequence/Jump_Up.uasset'
+[2021.08.05-10.28.36:995][735]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2021.08.05-10.28.36:995][735]LogContentValidation: Display: AnimSequence /Game/Character/Bryce/Animation/Sequence/Jump_Up.Jump_Up 유효성 검사 중
+[2021.08.05-10.28.36:996][735]LogContentValidation: Display: AnimSequence /Game/Character/Bryce/Animation/Sequence/Jump_Loop.Jump_Loop 유효성 검사 중
+[2021.08.05-10.28.36:996][735]LogContentValidation: Display: AnimSequence /Game/Character/Bryce/Animation/Sequence/Jump_Down.Jump_Down 유효성 검사 중
