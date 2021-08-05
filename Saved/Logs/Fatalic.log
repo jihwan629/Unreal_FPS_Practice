@@ -1539,3 +1539,543 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.08.05-09.43.15:768][858]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
 [2021.08.05-09.43.15:805][858]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
 [2021.08.05-09.43.15:829][859]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.08.05-09.48.37:348][483]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.05-09.48.37:377][483]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.05-09.48.39:562][743]LogContentBrowser: Attempting asset rename: NewFolder -> Animation
+[2021.08.05-09.48.39:562][743]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.05-09.48.48:179][101]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 I:\Unreal Project\Fatalic 5.0\Asset\Animation\Rifle Idle.fbx)
+[2021.08.05-09.48.48:189][101]LogFbx: Loading FBX Scene from I:\Unreal Project\Fatalic 5.0\Asset\Animation\Rifle Idle.fbx
+[2021.08.05-09.48.48:217][101]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.05-09.48.55:441][101]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2021.08.05-09.48.55:496][101]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.08.05-09.48.55:497][101]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2021.08.05-09.48.55:860][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.08.05-09.48.55:861][101]FBXImport: 임포트가 취소되었습니다. 
+[2021.08.05-09.48.55:907][101]LogAssetTools: The import task was canceled.
+[2021.08.05-09.48.57:508][248]LogSlate: Window '메시지 로그' being destroyed
+[2021.08.05-09.48.57:513][248]LogSlate: Window '메시지 로그' being destroyed
+[2021.08.05-09.49.00:619][528]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.05-09.49.00:647][528]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.05-09.49.03:436][815]LogContentBrowser: Attempting asset rename: NewFolder -> Sequence
+[2021.08.05-09.49.03:436][815]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.05-09.49.08:652][111]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 I:\Unreal Project\Fatalic 5.0\Asset\Animation\Rifle Idle.fbx)
+[2021.08.05-09.49.08:662][111]LogFbx: Loading FBX Scene from I:\Unreal Project\Fatalic 5.0\Asset\Animation\Rifle Idle.fbx
+[2021.08.05-09.49.08:694][111]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.05-09.49.12:899][111]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(0) Hips
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(1) Spine
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(2) Spine1
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(3) Spine2
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(4) Neck
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(5) Head
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.05-09.49.12:915][111]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(32) RightArm
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(34) RightHand
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.05-09.49.12:916][111]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.05-09.49.12:917][111]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.05-09.49.12:917][111]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.05-09.49.12:917][111]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.05-09.49.12:917][111]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.05-09.49.12:917][111]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.05-09.49.12:917][111]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.05-09.49.12:917][111]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.05-09.49.12:918][111]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.05-09.49.14:029][111]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Bryce/Animation/Sequence/Rifle_Idle.Rifle_Idle
+[2021.08.05-09.49.14:029][111]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 I:\Unreal Project\Fatalic 5.0\Asset\Animation\Rifle Run.fbx)
+[2021.08.05-09.49.14:038][111]LogFbx: Loading FBX Scene from I:\Unreal Project\Fatalic 5.0\Asset\Animation\Rifle Run.fbx
+[2021.08.05-09.49.14:096][111]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(0) Hips
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(1) Spine
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(2) Spine1
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(3) Spine2
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(4) Neck
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(5) Head
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(32) RightArm
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.05-09.49.14:098][111]LogFbx: SortedLinks :(34) RightHand
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.05-09.49.14:099][111]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.05-09.49.14:100][111]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.05-09.49.14:253][112]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/Bryce/Animation/Sequence/Rifle_Run.Rifle_Run
+[2021.08.05-09.49.17:623][408]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Character/Bryce/Animation/Sequence/Rifle_Idle.Rifle_Idle
+[2021.08.05-09.49.17:679][408]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.05-09.49.18:404][408]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.05-09.49.42:659][574]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.05-09.49.56:582][574]LogContentBrowser: Attempting asset rename: HeroFPP_Skeleton -> HeroFPP_Skeleton
+[2021.08.05-09.49.57:473][574]LogSlate: Window '애니메이션 블루프린트 생성' being destroyed
+[2021.08.05-09.49.57:479][574]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2021.08.05-09.49.57:496][574]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2021.08.05-09.50.10:987][548]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> Bryce_Animation
+[2021.08.05-09.50.10:994][548]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2021.08.05-09.50.12:188][655]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation
+[2021.08.05-09.50.12:195][655]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.05-09.50.23:257][585]LogSlateStyle: Warning: 'CoreStyle' 스타일의 리소스가 없습니다. ''DefaultForeground' 컬러를 찾을 수 없습니다.'
+[2021.08.05-09.50.23:287][585]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.08.05-09.50.29:847][214]BlueprintLog: New page: Bryce_Character 컴파일
+[2021.08.05-09.50.30:046][214]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2021.08.05-09.50.30:165][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Bryce_Character" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Bryce_Character.uasset" SILENT=true
+[2021.08.05-09.50.30:201][214]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_CharacterA5CFC6424B2523CAA3ED928509C0F460.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Bryce_Character.uasset'
+[2021.08.05-09.50.30:224][214]AssetCheck: New page: 에셋 저장:  Bryce_Character
+[2021.08.05-09.50.30:224][214]LogContentValidation: Display: Blueprint /Game/Character/Bryce/Bryce_Character.Bryce_Character 유효성 검사 중
+[2021.08.05-09.51.02:242][134]LogSlate: Window '스켈레톤 선택' being destroyed
+[2021.08.05-09.51.02:250][134]LogContentBrowser: Deferred new asset file creation: NewBlendSpace1D
+[2021.08.05-09.51.02:266][134]LogContentBrowser: Creating deferred item: NewBlendSpace1D
+[2021.08.05-09.51.02:320][138]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> NewBlendSpace1D
+[2021.08.05-09.51.02:324][138]LogContentBrowser: End creating deferred item NewBlendSpace1D
+[2021.08.05-09.51.16:975][271]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> Bryce_Move_BS
+[2021.08.05-09.51.17:111][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Animation/Bryce_Move_BS" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Move_BS.uasset" SILENT=true
+[2021.08.05-09.51.17:115][271]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_Move_BS785B73004ED0A9196021959C90951E7E.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Move_BS.uasset'
+[2021.08.05-09.51.17:420][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.08.05-09.51.17:478][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.08.05-09.51.17:519][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.08.05-09.51.17:525][271]AssetCheck: New page: 에셋 저장:  Bryce_Move_BS
+[2021.08.05-09.51.17:525][271]LogContentValidation: Display: BlendSpace1D /Game/Character/Bryce/Animation/Bryce_Move_BS.Bryce_Move_BS 유효성 검사 중
+[2021.08.05-09.51.18:373][336]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Character/Bryce/Animation/Bryce_Move_BS.Bryce_Move_BS
+[2021.08.05-09.51.18:402][336]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-09.51.18:402][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-09.51.54:966][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Animation/Bryce_Move_BS" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Move_BS.uasset" SILENT=true
+[2021.08.05-09.51.54:972][824]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_Move_BS3B466BAD4D82932031D24DB4DB092A82.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Move_BS.uasset'
+[2021.08.05-09.51.54:989][824]AssetCheck: New page: 에셋 저장:  Bryce_Move_BS
+[2021.08.05-09.51.54:989][824]LogContentValidation: Display: BlendSpace1D /Game/Character/Bryce/Animation/Bryce_Move_BS.Bryce_Move_BS 유효성 검사 중
+[2021.08.05-09.52.09:651][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Animation/Bryce_Move_BS" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Move_BS.uasset" SILENT=true
+[2021.08.05-09.52.09:658][197]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_Move_BSB0AF0B8B4989F10DB89830BAC71612FD.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Move_BS.uasset'
+[2021.08.05-09.52.09:673][197]AssetCheck: New page: 에셋 저장:  Bryce_Move_BS
+[2021.08.05-09.52.09:674][197]LogContentValidation: Display: BlendSpace1D /Game/Character/Bryce/Animation/Bryce_Move_BS.Bryce_Move_BS 유효성 검사 중
+[2021.08.05-09.52.13:143][524]BlueprintLog: New page: Bryce_Animation 컴파일
+[2021.08.05-09.52.13:230][524]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2021.08.05-09.52.13:317][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Animation/Bryce_Animation" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset" SILENT=true
+[2021.08.05-09.52.13:328][524]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_Animation2331A4C54C9973242DFFA9ADD065DB18.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset'
+[2021.08.05-09.52.13:342][524]AssetCheck: New page: 에셋 저장:  Bryce_Animation
+[2021.08.05-09.52.13:342][524]LogContentValidation: Display: AnimBlueprint /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation 유효성 검사 중
+[2021.08.05-09.52.20:470][217]BlueprintLog: New page: Bryce_Animation 컴파일
+[2021.08.05-09.52.20:554][217]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.08.05-09.52.20:613][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Animation/Bryce_Animation" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset" SILENT=true
+[2021.08.05-09.52.20:624][217]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_Animation4BD673704FCEA6FCC3A7AFA54617E3A6.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset'
+[2021.08.05-09.52.20:641][217]AssetCheck: New page: 에셋 저장:  Bryce_Animation
+[2021.08.05-09.52.20:641][217]LogContentValidation: Display: AnimBlueprint /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation 유효성 검사 중
+[2021.08.05-09.52.42:462][362]LogSlate: Took 0.005871 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.08.05-09.53.16:164][474]BlueprintLog: New page: Bryce_Animation 컴파일
+[2021.08.05-09.53.16:239][474]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2021.08.05-09.53.16:301][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Animation/Bryce_Animation" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset" SILENT=true
+[2021.08.05-09.53.16:315][474]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_Animation69B57D0B430FCDCB2EA88486FB27A02D.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset'
+[2021.08.05-09.53.16:333][474]AssetCheck: New page: 에셋 저장:  Bryce_Animation
+[2021.08.05-09.53.16:333][474]LogContentValidation: Display: AnimBlueprint /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation 유효성 검사 중
+[2021.08.05-09.53.44:050][929]BlueprintLog: New page: Bryce_Animation 컴파일
+[2021.08.05-09.53.44:069][929]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_4
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-09.53.44:069][929]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_17:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.Bryce_Animation_C_4
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-09.53.44:111][929]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.08.05-09.53.44:176][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Animation/Bryce_Animation" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset" SILENT=true
+[2021.08.05-09.53.44:186][929]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_AnimationBCE05443468C597CC789B9B27434A369.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Bryce_Animation.uasset'
+[2021.08.05-09.53.44:199][929]AssetCheck: New page: 에셋 저장:  Bryce_Animation
+[2021.08.05-09.53.44:199][929]LogContentValidation: Display: AnimBlueprint /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation 유효성 검사 중
+[2021.08.05-09.53.44:200][929]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_4
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-09.53.44:218][930]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_4
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-09.53.44:271][931]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_4
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-09.53.44:295][932]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_4
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-09.53.44:310][933]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_4
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-09.53.44:326][934]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_4
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-09.53.44:340][935]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_4
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-09.53.44:355][936]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_4
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-09.53.44:370][937]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_4
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-09.53.44:385][938]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_4
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-09.53.44:400][939]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_4
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-09.53.44:416][940]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_4
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-09.53.44:430][941]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_4
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-09.53.44:446][942]LogScript: Warning: CallFunc_TryGetPawnOwner_ReturnValue 프로퍼티를 읽으려던 중 None 에 접근했습니다.
+	Bryce_Animation_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.Bryce_Animation_C_4
+	Function /Game/Character/Bryce/Animation/Bryce_Animation.Bryce_Animation_C:ExecuteUbergraph_Bryce_Animation:0040
+[2021.08.05-09.53.48:847][129]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.08.05-09.53.48:857][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.05-09.53.48:858][129]PIE: New page: PIE 세션: StartLevel (2021. 8. 6. 오전 3:53:48)
+[2021.08.05-09.53.48:858][129]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-09.53.48:892][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033793s)
+[2021.08.05-09.53.48:893][129]LogAIModule: Creating AISystem for world StartLevel
+[2021.08.05-09.53.48:894][129]LogPlayLevel: PIE: World Init took: (0.001598s)
+[2021.08.05-09.53.48:894][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.035657s)
+[2021.08.05-09.53.48:934][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.08.05-09.53.48:936][129]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.08.05-09.53.48:937][129]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.05-09.53.48:937][129]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.05-09.53.48:937][129]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.05-09.53.48:937][129]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.05-09.53.48:937][129]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.05-09.53.48:937][129]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.05-09.53.48:937][129]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.05-09.53.48:937][129]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.05-09.53.48:938][129]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.05-09.53.48:938][129]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.05-09.53.48:944][129]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.05-09.53.48:944][129]LogAudioMixer: Display: 1: FrontRight
+[2021.08.05-09.53.48:965][129]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.08.05-09.53.48:965][129]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.05-09.53.48:965][129]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.05-09.53.48:965][129]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.05-09.53.48:966][129]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.05-09.53.48:966][129]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.05-09.53.48:967][129]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.05-09.53.48:967][129]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.05-09.53.48:967][129]LogInit: FAudioDevice initialized.
+[2021.08.05-09.53.48:967][129]LogAudio: Display: Audio Device (ID: 3) registered with world 'StartLevel'.
+[2021.08.05-09.53.48:978][129]LogLoad: Game class is 'TPS_GameMode_C'
+[2021.08.05-09.53.48:981][129]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.08.05-18.53.48
+[2021.08.05-09.53.48:982][129]LogWorld: Bringing up level for play took: 0.003460
+[2021.08.05-09.53.48:982][129]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.08.05-09.53.48:987][129]PIE: 서버가 로그인했습니다.
+[2021.08.05-09.53.48:989][129]PIE: 에디터에서 플레이 총 시작 시간 0.133초입니다.
+[2021.08.05-09.54.04:734][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-09.54.04:734][351]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-09.54.04:735][351]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-09.54.04:735][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-09.54.04:749][351]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.05-09.54.04:756][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-09.54.04:796][351]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.05-09.54.04:796][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-09.54.04:797][351]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-09.54.04:800][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-09.54.04:806][351]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.08.05-09.54.04:869][351]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.08.05-09.54.04:902][352]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 1
+[2021.08.05-09.54.04:903][352]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.08.05-09.54.12:523][743]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-09.54.12:524][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-09.54.13:342][807]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-09.54.13:342][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-09.56.56:935][284]BlueprintLog: New page: Bryce_Character 컴파일
+[2021.08.05-09.56.57:068][284]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2021.08.05-09.56.57:223][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Bryce_Character" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Bryce_Character.uasset" SILENT=true
+[2021.08.05-09.56.57:264][284]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_Character077EFEC8484123ECE3E1068749FC6A72.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Bryce_Character.uasset'
+[2021.08.05-09.56.57:285][284]AssetCheck: New page: 에셋 저장:  Bryce_Character
+[2021.08.05-09.56.57:285][284]LogContentValidation: Display: Blueprint /Game/Character/Bryce/Bryce_Character.Bryce_Character 유효성 검사 중
+[2021.08.05-09.57.06:756][222]BlueprintLog: New page: Bryce_Character 컴파일
+[2021.08.05-09.57.06:837][222]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.08.05-09.57.06:941][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Bryce_Character" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Bryce_Character.uasset" SILENT=true
+[2021.08.05-09.57.06:984][222]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_Character777E4DAF4900534B584252AA49D7388B.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Bryce_Character.uasset'
+[2021.08.05-09.57.07:019][222]AssetCheck: New page: 에셋 저장:  Bryce_Character
+[2021.08.05-09.57.07:019][222]LogContentValidation: Display: Blueprint /Game/Character/Bryce/Bryce_Character.Bryce_Character 유효성 검사 중
+[2021.08.05-09.57.07:542][271]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.08.05-09.57.07:551][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.05-09.57.07:552][271]PIE: New page: PIE 세션: StartLevel (2021. 8. 6. 오전 3:57:07)
+[2021.08.05-09.57.07:552][271]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-09.57.07:582][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029946s)
+[2021.08.05-09.57.07:583][271]LogAIModule: Creating AISystem for world StartLevel
+[2021.08.05-09.57.07:583][271]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2021.08.05-09.57.07:583][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.031207s)
+[2021.08.05-09.57.07:629][271]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2021.08.05-09.57.07:632][271]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.08.05-09.57.07:632][271]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.05-09.57.07:632][271]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.05-09.57.07:632][271]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.05-09.57.07:632][271]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.05-09.57.07:632][271]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.05-09.57.07:632][271]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.05-09.57.07:632][271]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.05-09.57.07:632][271]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.05-09.57.07:633][271]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.05-09.57.07:633][271]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.05-09.57.07:637][271]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.05-09.57.07:637][271]LogAudioMixer: Display: 1: FrontRight
+[2021.08.05-09.57.07:663][271]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.08.05-09.57.07:663][271]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.05-09.57.07:663][271]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.05-09.57.07:663][271]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.05-09.57.07:664][271]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.05-09.57.07:664][271]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.05-09.57.07:666][271]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.05-09.57.07:666][271]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.05-09.57.07:666][271]LogInit: FAudioDevice initialized.
+[2021.08.05-09.57.07:666][271]LogAudio: Display: Audio Device (ID: 4) registered with world 'StartLevel'.
+[2021.08.05-09.57.07:711][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-09.57.07:711][271]LogLoad: Game class is 'TPS_GameMode_C'
+[2021.08.05-09.57.07:715][271]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.08.05-18.57.07
+[2021.08.05-09.57.07:716][271]LogWorld: Bringing up level for play took: 0.004230
+[2021.08.05-09.57.07:716][271]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.08.05-09.57.07:725][271]PIE: 서버가 로그인했습니다.
+[2021.08.05-09.57.07:728][271]PIE: 에디터에서 플레이 총 시작 시간 0.178초입니다.
+[2021.08.05-09.57.27:424][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-09.57.27:424][757]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-09.57.27:426][757]LogSlate: Window 'Fatalic 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2021.08.05-09.57.27:435][757]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-09.57.27:436][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-09.57.27:453][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.05-09.57.27:462][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-09.57.27:542][757]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.05-09.57.27:542][757]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-09.57.27:544][757]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-09.57.27:563][757]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2021.08.05-09.57.27:604][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.08.05-09.57.27:626][758]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.08.05-09.58.49:328][618]BlueprintLog: New page: Bryce_Character 컴파일
+[2021.08.05-09.58.49:394][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.08.05-09.58.49:498][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Bryce_Character" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Bryce_Character.uasset" SILENT=true
+[2021.08.05-09.58.49:535][618]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_Character8FF2923B4D445B01981437AA2DFF283F.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Bryce_Character.uasset'
+[2021.08.05-09.58.49:549][618]AssetCheck: New page: 에셋 저장:  Bryce_Character
+[2021.08.05-09.58.49:550][618]LogContentValidation: Display: Blueprint /Game/Character/Bryce/Bryce_Character.Bryce_Character 유효성 검사 중
+[2021.08.05-09.59.27:262][ 21]BlueprintLog: New page: Bryce_Character 컴파일
+[2021.08.05-09.59.27:338][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.08.05-09.59.27:525][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Bryce_Character" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Bryce_Character.uasset" SILENT=true
+[2021.08.05-09.59.27:560][ 21]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_Character01AE73AA487F0C3A80459994EF725FF0.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Bryce_Character.uasset'
+[2021.08.05-09.59.27:588][ 21]AssetCheck: New page: 에셋 저장:  Bryce_Character
+[2021.08.05-09.59.27:588][ 21]LogContentValidation: Display: Blueprint /Game/Character/Bryce/Bryce_Character.Bryce_Character 유효성 검사 중
+[2021.08.05-09.59.27:978][ 63]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.08.05-09.59.27:985][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.05-09.59.27:985][ 63]PIE: New page: PIE 세션: StartLevel (2021. 8. 6. 오전 3:59:27)
+[2021.08.05-09.59.27:985][ 63]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-09.59.28:013][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027514s)
+[2021.08.05-09.59.28:014][ 63]LogAIModule: Creating AISystem for world StartLevel
+[2021.08.05-09.59.28:014][ 63]LogPlayLevel: PIE: World Init took: (0.001119s)
+[2021.08.05-09.59.28:014][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.028753s)
+[2021.08.05-09.59.28:057][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.08.05-09.59.28:059][ 63]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.08.05-09.59.28:060][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.05-09.59.28:060][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.05-09.59.28:060][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.05-09.59.28:060][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.05-09.59.28:060][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.05-09.59.28:060][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.05-09.59.28:060][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.05-09.59.28:060][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.05-09.59.28:060][ 63]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.05-09.59.28:060][ 63]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.05-09.59.28:063][ 63]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.05-09.59.28:063][ 63]LogAudioMixer: Display: 1: FrontRight
+[2021.08.05-09.59.28:080][ 63]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.08.05-09.59.28:080][ 63]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.05-09.59.28:080][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.05-09.59.28:080][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.05-09.59.28:080][ 63]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.05-09.59.28:080][ 63]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.05-09.59.28:081][ 63]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.05-09.59.28:081][ 63]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.05-09.59.28:081][ 63]LogInit: FAudioDevice initialized.
+[2021.08.05-09.59.28:081][ 63]LogAudio: Display: Audio Device (ID: 5) registered with world 'StartLevel'.
+[2021.08.05-09.59.28:111][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-09.59.28:111][ 63]LogLoad: Game class is 'TPS_GameMode_C'
+[2021.08.05-09.59.28:114][ 63]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.08.05-18.59.28
+[2021.08.05-09.59.28:115][ 63]LogWorld: Bringing up level for play took: 0.003365
+[2021.08.05-09.59.28:115][ 63]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.08.05-09.59.28:122][ 63]PIE: 서버가 로그인했습니다.
+[2021.08.05-09.59.28:124][ 63]PIE: 에디터에서 플레이 총 시작 시간 0.141초입니다.
+[2021.08.05-09.59.37:595][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-09.59.37:595][ 29]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-09.59.37:595][ 29]LogSlate: Window 'Fatalic 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2021.08.05-09.59.37:604][ 29]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-09.59.37:604][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-09.59.37:610][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.05-09.59.37:616][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-09.59.37:659][ 29]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.05-09.59.37:660][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-09.59.37:661][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-09.59.37:669][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.08.05-09.59.37:718][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.08.05-09.59.37:736][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.08.05-10.00.19:061][835]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.08.05-10.00.19:069][835]BlueprintLog: New page: 플레이 전 자동 컴파일
+[2021.08.05-10.00.19:070][835]LogPlayLevel: [PlayLevel] Compiling Bryce_Character before play...
+[2021.08.05-10.00.19:186][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Bryce_Character" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Bryce_Character.uasset" SILENT=true
+[2021.08.05-10.00.19:228][835]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_Character78AFFAB64B75CCC05D7D5891FD27E849.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Bryce_Character.uasset'
+[2021.08.05-10.00.19:282][835]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.08.05-10.00.19:285][835]LogPlayLevel: PlayLevel: Blueprint regeneration took 215 ms (1 blueprints)
+[2021.08.05-10.00.19:285][835]PIE: New page: PIE 세션: StartLevel (2021. 8. 6. 오전 4:00:19)
+[2021.08.05-10.00.19:285][835]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-10.00.19:318][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032563s)
+[2021.08.05-10.00.19:319][835]LogAIModule: Creating AISystem for world StartLevel
+[2021.08.05-10.00.19:319][835]LogPlayLevel: PIE: World Init took: (0.001236s)
+[2021.08.05-10.00.19:319][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.033955s)
+[2021.08.05-10.00.19:372][835]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.08.05-10.00.19:373][835]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.08.05-10.00.19:373][835]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.05-10.00.19:373][835]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.05-10.00.19:373][835]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.05-10.00.19:373][835]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.05-10.00.19:373][835]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.05-10.00.19:373][835]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.05-10.00.19:373][835]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.05-10.00.19:373][835]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.05-10.00.19:374][835]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.05-10.00.19:374][835]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.05-10.00.19:378][835]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.05-10.00.19:378][835]LogAudioMixer: Display: 1: FrontRight
+[2021.08.05-10.00.19:404][835]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.08.05-10.00.19:404][835]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.05-10.00.19:404][835]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.05-10.00.19:404][835]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.05-10.00.19:405][835]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.05-10.00.19:405][835]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.05-10.00.19:406][835]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.05-10.00.19:406][835]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.05-10.00.19:406][835]LogInit: FAudioDevice initialized.
+[2021.08.05-10.00.19:406][835]LogAudio: Display: Audio Device (ID: 6) registered with world 'StartLevel'.
+[2021.08.05-10.00.19:447][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-10.00.19:447][835]LogLoad: Game class is 'TPS_GameMode_C'
+[2021.08.05-10.00.19:450][835]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.08.05-19.00.19
+[2021.08.05-10.00.19:451][835]LogWorld: Bringing up level for play took: 0.003878
+[2021.08.05-10.00.19:451][835]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.08.05-10.00.19:458][835]PIE: 서버가 로그인했습니다.
+[2021.08.05-10.00.19:461][835]PIE: 에디터에서 플레이 총 시작 시간 0.394초입니다.
+[2021.08.05-10.00.19:648][836]AssetCheck: New page: 에셋 저장:  Bryce_Character
+[2021.08.05-10.00.19:648][836]LogContentValidation: Display: Blueprint /Game/Character/Bryce/Bryce_Character.Bryce_Character 유효성 검사 중
+[2021.08.05-10.00.26:195][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.05-10.00.26:195][382]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.08.05-10.00.26:196][382]LogSlate: Window 'Fatalic 프리뷰 [NetMode: Standalone]  (64-bit/Windows)' being destroyed
+[2021.08.05-10.00.26:205][382]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.08.05-10.00.26:205][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-10.00.26:216][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.05-10.00.26:223][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.05-10.00.26:278][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-10.00.26:279][382]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.05-10.00.26:289][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.08.05-10.00.26:331][382]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2021.08.05-10.00.26:362][383]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.08.05-10.00.33:191][839]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.08.05-10.00.34:046][839]LogSlate: Window '콘텐츠 저장' being destroyed
+[2021.08.05-10.00.34:104][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Animation/Sequence/Rifle_Idle" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Sequence/Rifle_Idle.uasset" SILENT=true
+[2021.08.05-10.00.34:140][839]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Rifle_Idle0DDF944C43C76B637A61A19786090025.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Sequence/Rifle_Idle.uasset'
+[2021.08.05-10.00.34:157][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce/Animation/Sequence/Rifle_Run" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Sequence/Rifle_Run.uasset" SILENT=true
+[2021.08.05-10.00.34:171][839]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Rifle_RunDE78E69E4736D688F73D2DBA1E0049ED.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce/Animation/Sequence/Rifle_Run.uasset'
+[2021.08.05-10.00.34:172][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartLevel" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Maps/StartLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.05-10.00.34:203][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.08.05-10.00.34:291][839]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/StartLevelADDDEC8748857FBB6A13828D8EACCEC1.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Maps/StartLevel.umap'
+[2021.08.05-10.00.34:299][839]Message dialog closed, result: Ok, title: 소스 컨트롤에서 체크아웃할 수 없습니다!, text: 다음 애셋을 소스 컨트롤에서 체크아웃 시키지 못했습니다:
+/Game/Maps/StartLevel_BuiltData
+[2021.08.05-10.00.34:300][839]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartLevel_BuiltData" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Maps/StartLevel_BuiltData.uasset" SILENT=true
+[2021.08.05-10.00.34:359][839]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/StartLevel_BuiltData43A188FA409094B5C8B4759877E12211.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Maps/StartLevel_BuiltData.uasset'
+[2021.08.05-10.00.34:360][839]Message dialog closed, result: Ok, title: 소스 컨트롤에서 체크아웃할 수 없습니다!, text: 다음 애셋을 소스 컨트롤에서 체크아웃 시키지 못했습니다:
+/Game/Maps/StartLevel_BuiltData
+[2021.08.05-10.00.34:360][839]LogFileHelpers: Saving map 'StartLevel' took 0.188
+[2021.08.05-10.00.34:372][839]AssetCheck: New page: 에셋 저장:  다수의 에셋
+[2021.08.05-10.00.34:372][839]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/StartLevel_BuiltData.StartLevel_BuiltData 유효성 검사 중
+[2021.08.05-10.00.34:372][839]LogContentValidation: Display: World /Game/Maps/StartLevel.StartLevel 유효성 검사 중
+[2021.08.05-10.00.34:372][839]LogContentValidation: Display: AnimSequence /Game/Character/Bryce/Animation/Sequence/Rifle_Run.Rifle_Run 유효성 검사 중
+[2021.08.05-10.00.34:372][839]LogContentValidation: Display: AnimSequence /Game/Character/Bryce/Animation/Sequence/Rifle_Idle.Rifle_Idle 유효성 검사 중
