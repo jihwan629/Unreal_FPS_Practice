@@ -1454,3 +1454,108 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.09.03-03.06.48:118][234]AssetCheck: New page: 에셋 저장:  다수의 에셋
 [2021.09.03-03.06.48:118][234]LogContentValidation: Display: MapBuildDataRegistry /Game/Maps/StartLevel_BuiltData.StartLevel_BuiltData 유효성 검사 중
 [2021.09.03-03.06.48:118][234]LogContentValidation: Display: World /Game/Maps/StartLevel.StartLevel 유효성 검사 중
+[2021.09.03-03.09.37:736][659]BlueprintLog: New page: Bryce_Root_Character 컴파일
+[2021.09.03-03.09.37:835][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.09.03-03.09.37:958][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Character/Bryce_Root/Bryce_Root_Character" FILE="../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce_Root/Bryce_Root_Character.uasset" SILENT=true
+[2021.09.03-03.09.38:065][659]LogSavePackage: Moving '../../../../../Unreal Project/Fatalic 5.0/Saved/Bryce_Root_Character1FB76E994D17FA44B64C5D8C75DC6322.tmp' to '../../../../../Unreal Project/Fatalic 5.0/Content/Character/Bryce_Root/Bryce_Root_Character.uasset'
+[2021.09.03-03.09.38:079][659]AssetCheck: New page: 에셋 저장:  Bryce_Root_Character
+[2021.09.03-03.09.38:080][659]LogContentValidation: Display: Blueprint /Game/Character/Bryce_Root/Bryce_Root_Character.Bryce_Root_Character 유효성 검사 중
+[2021.09.03-03.09.44:803][397]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2021.09.03-03.09.44:811][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.03-03.09.44:811][397]PIE: New page: PIE 세션: StartLevel (2021. 9. 3. 오후 9:09:44)
+[2021.09.03-03.09.44:835][397]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2021.09.03-03.09.44:863][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027988s)
+[2021.09.03-03.09.44:864][397]LogAIModule: Creating AISystem for world StartLevel
+[2021.09.03-03.09.44:864][397]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2021.09.03-03.09.44:864][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.029194s)
+[2021.09.03-03.09.44:895][397]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.09.03-03.09.44:897][397]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.09.03-03.09.44:897][397]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.03-03.09.44:897][397]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.03-03.09.44:897][397]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.03-03.09.44:897][397]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.03-03.09.44:897][397]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.03-03.09.44:897][397]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.03-03.09.44:897][397]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.03-03.09.44:897][397]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.03-03.09.44:898][397]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.03-03.09.44:898][397]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.03-03.09.44:902][397]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.03-03.09.44:902][397]LogAudioMixer: Display: 1: FrontRight
+[2021.09.03-03.09.44:918][397]LogAudioMixer: Display: Using Audio Device 스피커(Realtek High Definition Audio)
+[2021.09.03-03.09.44:919][397]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.03-03.09.44:919][397]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.03-03.09.44:919][397]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.03-03.09.44:919][397]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.03-03.09.44:919][397]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.03-03.09.44:920][397]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.03-03.09.44:920][397]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.03-03.09.44:920][397]LogInit: FAudioDevice initialized.
+[2021.09.03-03.09.44:920][397]LogAudio: Display: Audio Device (ID: 9) registered with world 'StartLevel'.
+[2021.09.03-03.09.44:929][397]LogLoad: Game class is 'TPS_GameMode_C'
+[2021.09.03-03.09.44:931][397]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2021.09.03-12.09.44
+[2021.09.03-03.09.44:931][397]LogWorld: Bringing up level for play took: 0.002683
+[2021.09.03-03.09.44:932][397]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.09.03-03.09.44:936][397]PIE: 서버가 로그인했습니다.
+[2021.09.03-03.09.44:937][397]PIE: 에디터에서 플레이 총 시작 시간 0.128초입니다.
+[2021.09.03-03.09.46:768][572]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.46:958][591]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.47:117][607]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.47:276][623]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.48:414][732]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.48:601][749]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.48:771][764]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.48:947][779]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.49:136][795]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.49:302][809]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.49:473][824]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.49:648][839]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.49:807][853]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.49:982][868]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.50:193][886]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.50:746][934]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.50:913][949]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.51:057][962]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.54:919][309]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.55:103][326]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.55:266][341]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.55:447][357]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.55:618][372]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.55:787][387]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.55:958][402]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.56:135][418]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.56:300][433]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.56:472][449]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.56:647][465]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.56:825][481]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.57:017][498]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.57:184][513]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.57:350][528]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.57:539][545]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.57:710][560]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.57:892][576]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.58:066][591]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.58:228][605]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.58:409][621]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.58:601][638]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.58:780][654]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.58:963][670]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.09.59:562][724]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.10.01:116][866]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.10.01:970][942]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.10.03:452][ 73]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sounds/Foley/SCue_Foley_Bodyfall.SCue_Foley_Bodyfall was zero and has changed. Consider manually Re-saving the asset
+[2021.09.03-03.10.05:559][262]LogAnimMontage: Warning: Playing a Montage (FPP_Hero_RifleFire_AnimMontage) for the wrong Skeleton (Bryce_Root_Skeleton) instead of (HeroFPP_Skeleton).
+[2021.09.03-03.10.53:276][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.03-03.10.53:276][650]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2021.09.03-03.10.53:276][650]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2021.09.03-03.10.53:276][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.03-03.10.53:289][650]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.03-03.10.53:293][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.03-03.10.53:318][650]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.03-03.10.53:318][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.03-03.10.53:319][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.03-03.10.53:322][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.03-03.10.53:326][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.09.03-03.10.53:354][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.09.03-03.10.53:377][651]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.09.03-03.11.07:952][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
